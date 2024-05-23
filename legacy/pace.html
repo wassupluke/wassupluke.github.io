@@ -1,0 +1,227 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html manifest="offline.appcache">
+	<head>
+	<title>Speed Calc</title>
+	<link rel="apple-touch-icon-precomposed" href="bike.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="bike72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="bike114x114.png" />
+<link rel="apple-touch-startup-image" href="splash.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta id="viewport" name="viewport" content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<script type="text/javascript">
+$(document).bind(
+  'touchmove',
+  function(e) {
+    e.preventDefault();
+  }
+);
+</script>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="noindex, nofollow" />
+	<link rel="stylesheet" href="css/iPhone_Style.css" />
+	<link rel="stylesheet" href="css/triCalc_Style.css" />
+	<script type="text/javascript" src="js/triCalc_Code.js"></script>
+	<script type="text/javascript" charset="utf-8">
+
+		var triCalcMode = 0;
+		
+
+		window.onload = function() {
+		  setTimeout(function(){window.scrollTo(0, 0, 1);}, 100);
+
+		  triCalc_c_Populate();
+		  triCalc_p_Init();
+		  triCalc_p_Populate();
+
+		  triCalc_GUI_Activate(triCalcMode);
+
+		}
+
+
+	</script>
+	</head>
+	<body>
+<div id="header">
+		<h1>Speed Calc</h1>
+		<a href="javascript:triCalc_GUI_Activate(0);" class="nav" id="backButton">Menu</a> <a href="javascript:triCalc_PaceTime();" class="nav Action" id="triCalcPaceTime">Pace / Time</a> </div>
+<div id="triCalc_Menu">
+		<ul>
+			<li class="arrow"><a href="javascript:triCalc_GUI_Activate(1)">Speed/Pace Calculator</a></li>
+	</ul>
+	</div>
+<div id="triCalc_About"> </div>
+<div id="triCalc_TurboCrank"> </div>
+<div id="triCalc_Predict">
+		<ul>
+		<li>
+				<table cellspacing="1" cellpadding="1">
+				<tr>
+						<th>Select Distance</th>
+						<td colspan="2"><select id="triCalc_p_Event" class="triCalc_Select" onchange="triCalc_p_SetRace(this.selectedIndex); triCalc_p_Calculate()">
+								<option value="0">Custom Distance</option>
+								<option value="1">Ironman Triathlon</option>
+								<option value="2">Half-Ironman (70.3)</option>
+								<option value="3">Olympic Triathlon</option>
+								<option value="4">Sprint Triathlon</option>
+							</select></td>
+					</tr>
+				<tr>
+						<th>Start Time</th>
+						<td><select id="triCalc_p_ClockHH" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select>
+						<strong> : </strong>
+						<select id="triCalc_p_ClockMM" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select></td>
+						<td><select id="triCalc_p_ClockPM" class="triCalc_SelectUnit" onchange="triCalc_p_Calculate()">
+								<option value="0" selected="selected">AM</option>
+								<option value="1">PM</option>
+							</select></td>
+					</tr>
+				<tr>
+						<th>Swim Distance</th>
+						<td><input class="triCalc_p_Input" id="triCalc_p_SwimDist" type="text" value="2.4" onchange="triCalc_p_Calculate()" /></td>
+						<td><select id="triCalc_p_SwimUnit" class="triCalc_SelectUnit" onchange="triCalc_p_Calculate()">
+								<option value="0">yards</option>
+								<option value="1">miles</option>
+								<option value="2">km</option>
+								<option value="3">meters</option>
+							</select></td>
+					</tr>
+				<tr>
+						<th>Swim Pace</th>
+						<td><select id="triCalc_p_SwimPaceMM" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select>
+						<strong> : </strong>
+						<select id="triCalc_p_SwimPaceSS" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select></td>
+						<td><select id="triCalc_p_SwimPaceUnit" class="triCalc_SelectUnit" onchange="triCalc_p_Calculate()">
+								<option value="0">/ 100 yd</option>
+								<option value="1">/ mile</option>
+								<option value="2">/ km</option>
+								<option value="3">/ 100 m</option>
+							</select></td>
+					</tr>
+				<tr>
+						<th>Transition - T1</th>
+						<td><select id="triCalc_p_T1MM" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select>
+						<strong> : </strong>
+						<select id="triCalc_p_T1SS" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select></td>
+						<td>(mm:ss)</td>
+					</tr>
+				<tr>
+						<th>Bike Distance</th>
+						<td><input class="triCalc_p_Input" id="triCalc_p_BikeDist" type="text" value="112" onchange="triCalc_p_Calculate()" /></td>
+						<td><select id="triCalc_p_BikeUnit" class="triCalc_SelectUnit" onchange="triCalc_p_Calculate()">
+								<option value="0">yards</option>
+								<option value="1">miles</option>
+								<option value="2">km</option>
+								<option value="3">meters</option>
+							</select></td>
+					</tr>
+				<tr>
+						<th>Bike Speed</th>
+						<td><select id="triCalc_p_BikeSpeed1" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select>
+						<strong> . </strong>
+						<select id="triCalc_p_BikeSpeed0" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select></td>
+						<td><select id="triCalc_p_BikeSpeedUnit" class="triCalc_SelectUnit" onchange="triCalc_p_Calculate()">
+								<option value="0">mph</option>
+								<option value="1">km/hr</option>
+							</select></td>
+					</tr>
+				<tr>
+						<th>Transition - T2</th>
+						<td><select id="triCalc_p_T2MM" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select>
+						<strong> : </strong>
+						<select id="triCalc_p_T2SS" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select></td>
+						<td>(mm:ss)</td>
+					</tr>
+				<tr>
+						<th>Run Distance</th>
+						<td><input class="triCalc_p_Input" id="triCalc_p_RunDist" type="text" value="26.2" onchange="triCalc_p_Calculate()" /></td>
+						<td><select id="triCalc_p_RunUnit" class="triCalc_SelectUnit" onchange="triCalc_p_Calculate()">
+								<option value="0">yards</option>
+								<option value="1">miles</option>
+								<option value="2">km</option>
+								<option value="3">meters</option>
+							</select></td>
+					</tr>
+				<tr>
+						<th>Run Pace</th>
+						<td><select id="triCalc_p_RunPaceMM" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select>
+						<strong> : </strong>
+						<select id="triCalc_p_RunPaceSS" class="triCalc_Select" onchange="triCalc_p_Calculate()">
+							</select></td>
+						<td><select id="triCalc_p_RunPaceUnit" class="triCalc_SelectUnit" onchange="triCalc_p_Calculate()">
+								<option value="0">/ 100 yd</option>
+								<option value="1">/ mile</option>
+								<option value="2">/ km</option>
+								<option value="3">/ 100 m</option>
+							</select></td>
+					</tr>
+			</table>
+			</li>
+		<li class="triCalc_BGYellow">
+				<div class="triCalc_ResultTable"> <span class="triCalc_Bold" style="text-align: left">Event</span> <span class="triCalc_Bold">Split</span> <span class="triCalc_Bold">Elapsed</span> <span class="triCalc_Bold">Clock</span> <span class="triCalc_Bold" style="text-align: left">Swim</span> <span class="triCalc_Bold" style="text-align: left">T1</span> <span class="triCalc_Bold" style="text-align: left">Bike</span> <span class="triCalc_Bold" style="text-align: left">T2</span> <span class="triCalc_Bold" style="text-align: left">Run</span> </div>
+			</li>
+	</ul>
+	</div>
+<div id="triCalc_Convert">
+		<ul>
+		<li>Distance:<br/>
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_DistK"		class="triCalc_Select">
+			</select>
+				,
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_DistC"		class="triCalc_Select">
+			</select>
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_Dist1"		class="triCalc_Select">
+			</select>
+				.
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_Dist0"		class="triCalc_Select">
+			</select>
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_DistUnit"	class="triCalc_SelectUnit">
+				<option value="0">yards</option>
+				<option value="1" selected="selected">miles</option>
+				<option value="2">km</option>
+				<option value="3">meters</option>
+			</select>
+			</li>
+		<li> <span id="triCalc_c_TimeLabel">Finish Time: </span> <span id="triCalc_c_PaceLabel" style="display: none;">Pace: </span> (hh:mm:ss)<br />
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_HH" class="triCalc_Select">
+			</select>
+				:
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_MM" class="triCalc_Select">
+			</select>
+				:
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_SS" class="triCalc_Select">
+			</select>
+				<select style="display: none" onchange="triCalc_c_Calculate()" id="triCalc_c_S0" class="triCalc_Select">
+			</select>
+				<select onchange="triCalc_c_Calculate()" id="triCalc_c_PaceUnit"	class="triCalc_Select" style="display: none;">
+				<option value="0"> /100 yd</option>
+				<option value="1" selected="selected"> /mile</option>
+				<option value="2"> /km</option>
+				<option value="3"> /100 m</option>
+			</select>
+			</li>
+		<li class="triCalc_BGYellow">
+				<div class="triCalc_ResultTable">
+				<div id="triCalc_c_ResultSpeed"> <span id="triCalc_c_ResultMetSpeed">0.0</span><span class="triCalc_Bold">km/hr</span> <span id="triCalc_c_ResultImpSpeed">0.0</span><span class="triCalc_Bold">mph</span> </div>
+				<div id="triCalc_c_ResultFinishTime" style="display: none;"> &nbsp;<span class="triCalc_Bold">Finish</span> <span id="triCalc_c_ResultTime">00:00:00</span>&nbsp; </div>
+				<span id="triCalc_c_ResultMetPace">00:00:00</span><span class="triCalc_Bold">/km</span> <span id="triCalc_c_ResultImpPace">00:00:00</span><span class="triCalc_Bold">/mile</span> <span id="triCalc_c_ResultMetPool">00:00:00</span><span class="triCalc_Bold">/100 m</span> <span id="triCalc_c_ResultImpPool">00:00:00</span><span class="triCalc_Bold">/100 yd</span> <span id="triCalc_c_ResultMetMajor">0.0</span><span class="triCalc_Bold">km</span> <span id="triCalc_c_ResultImpMajor">0.0</span><span class="triCalc_Bold">miles</span> <span id="triCalc_c_ResultMetMinor">0.0</span><span class="triCalc_Bold">meters</span> <span id="triCalc_c_ResultImpMinor">0.0</span><span class="triCalc_Bold">yards</span> </div>
+			</li>
+	</ul>
+	</div>
+<p style="text-align:center;">Mobile users:  Add this to your Home Screen for ease of access.<br />
+		<br />
+		Note:  Internet access needed for use (e.g. WiFi, 3G, 4G).</p>
+</body>
+</html>
