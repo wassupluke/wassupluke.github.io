@@ -1,0 +1,5 @@
+Markdown==3.7
+markdown-link-attr-modifier==0.2.1
+md2html-phuker==0.5.2
+py-gfm==2.0.0
+Pygments==2.18.0
