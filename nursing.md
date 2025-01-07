@@ -9,6 +9,5 @@
 - [ICU One Pager](https://onepagericu.com/)
 
 ## New to me
-- [5MinuteConsult](https://www.wolterskluwer.com/en/solutions/lippincott-medicine/5minuteconsult)
 - [Comparative Toxicogenomics Database](https://ctdbase.org)
 - [LeapFrog Scores](https://www.hospitalsafetygrade.org/)
