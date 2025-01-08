@@ -23,7 +23,7 @@ html = f"""<!DOCTYPE html>
 <body>
     {content}
     <footer>
-        <p>&copy; 2025 Luke Wass</p>
+        <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
     </footer>
 </body>
 </html>
