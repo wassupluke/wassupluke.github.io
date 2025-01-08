@@ -3,6 +3,7 @@
 ## Sites I use professionally
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [UpToDate](https://www.uptodate.com/contents/search)
 
 ## Sites I use personally
 - [ICU One Pager](https://onepagericu.com/)
