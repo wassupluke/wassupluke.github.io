@@ -1,6 +1,21 @@
+import re
 import sys
 
 import markdown
+from bs4 import BeautifulSoup as bs
+
+# ---  CUSTOMIZE Prettify FUNCTION TO ALLOW INDENT WIDTH SPECIFICATION
+# https://stackoverflow.com/a/15513483/22771801
+og_prettify = bs.prettify
+r = re.compile(r"^(\s*)", re.MULTILINE)
+
+
+def prettify(self, encoding=None, formatter="minimal", indent_width=2):
+    return r.sub(r"\1" * indent_width, og_prettify(self, encoding, formatter))
+
+
+bs.prettify = prettify
+# ---
 
 
 def main(filename):
@@ -14,22 +29,25 @@ def main(filename):
             lines[i] = f"<header>\n{line}\n</header>"
 
     content = "".join(map(str, lines))
+    soup = bs(content)
+    content = soup.prettify()
+    content = content.replace("\n", "\n    ")
 
     html = f"""<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{filename.strip(".md").title()}</title>
-        <link rel="stylesheet" href="stylesheet.css">
-    </head>
-    <body>
-        {content}
-        <footer>
-            <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
-        </footer>
-    </body>
-    </html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{filename.strip(".md").title()}</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    {content}
+    <footer>
+      <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
+    </footer>
+  </body>
+</html>
     """
 
     print(f"{filename = } has been converted to")
