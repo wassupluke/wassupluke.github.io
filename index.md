@@ -1,6 +1,6 @@
 # Luke's Personal Website
 
-[`Luke the athlete`](https://intervals.icu/athlete/i75079/activities)
+[`Luke the athlete`](athlete.html)
 
 [`Luke the nurse`](nursing.html)
 

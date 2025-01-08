@@ -1,5 +1,18 @@
 /* from https://github.com/markdowncss */
 
+/* Triadic colors
+ * R: #cc402e
+ * G: #2ecc40
+ * B: #402ecc
+*/
+
+:root {
+  --red: #cc402e;
+  --green: #2ecc40;
+  --blue: #402ecc;
+  --white: #ffffff;
+}
+
 pre,
 code {
   font-family: Menlo, Monaco, "Courier New", monospace;
@@ -79,7 +92,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: #2ecc40;
+  color: var(--green);
 }
 
 .retro-no-decoration {
@@ -90,13 +103,13 @@ html {
   font-size: 12px;
 }
 
-@media screen and (min-width: 32rem) and (max-width: 88rem) {
+@media screen and (min-width: 32rem) and (max-width: 66rem) {
   html {
     font-size: 15px;
   }
 }
 
-@media screen and (min-width: 88rem) {
+@media screen and (min-width: 66rem) {
   html {
     font-size: 16px;
   }
@@ -127,6 +140,7 @@ h4,
 
 h1,
 .retro-h1 {
+  text-align: center;
   margin-top: 0;
   font-size: 3.998rem;
 }
@@ -134,6 +148,7 @@ h1,
 h2,
 .retro-h2 {
   font-size: 2.827rem;
+  background-color: var(--blue);
 }
 
 h3,
@@ -153,7 +168,7 @@ h5,
 
 h6,
 .retro-h6 {
-  font-size: .88rem;
+  font-size: .66rem;
 }
 
 small,
@@ -188,7 +203,7 @@ body {
   font-family: "Courier New";
   line-height: 1.45;
   margin: 6rem auto 1rem;
-  max-width: 88rem;
+  max-width: 66rem;
   padding: .25rem;
 }
 
@@ -199,4 +214,9 @@ pre {
 blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
+}
+
+footer {
+    text-align: center;
+    color: #484848;
 }
