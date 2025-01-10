@@ -1,15 +1,7 @@
----
-layout: cv
-title: Luke Wass's CV
----
 # Luke Wass
 Bachelor of Science in Nursing, Registered Nurse, Critical Care Registered Nurse.
 
-<div id="webaddress">
-<a href="mailto:wassupluke@gmail.com">wassupluke@gmail.com</a>
-| <a href="http://wassupluke.com">My website</a>
-</div>
-
+[wassupluke@gmail.com](mailto:wassupluke@gmail.com) | [My website](https://wassupluke.com)
 
 ## Currently
 
@@ -44,24 +36,24 @@ ACLS, BLS, CCRN, NIHSS, TNCC
 ## Awards
 
 `2024`
-5th place, *Crazy Horse Half Marathon*, Hill City, SD
-10th place, *Mount Rushmore Half Marathon*, Keystone, SD
+5th place, *Crazy Horse Half Marathon*, Hill City, SD  
+10th place, *Mount Rushmore Half Marathon*, Keystone, SD  
 
 `2023`
 Nominee, *Daisy Award*, Rochester, MN
 
 `2022`
-1st place, *Bemidji 10K*, Bejidji, MN
-2nd place, *ZeroOut Prostate Cancer 5K*, Twin Cities, MN
+1st place, *Bemidji 10K*, Bejidji, MN  
+2nd place, *ZeroOut Prostate Cancer 5K*, Twin Cities, MN  
 77th place, *Fargo Full Marathon*, Fargo, ND
 
 `2021`
 3rd place, *Minnesota State Time Trial Championship*, St Peter, MN
 
 `2014`
-Member, *Gamma Beta Phi Honors Society*, University of Arizona
-Member, *Dean's List*, University of Arizona
-Recipient, *Mayo Clinic Dependent Scholarship*, Rochester, MN
+Member, *Gamma Beta Phi Honors Society*, University of Arizona  
+Member, *Dean's List*, University of Arizona  
+Recipient, *Mayo Clinic Dependent Scholarship*, Rochester, MN  
 
 `2012`
 Inductee, *Honors College Induction*, University of Arizona
@@ -84,7 +76,7 @@ Wass, L. T., Alexander, A. E., Matsumoto, J. M., Salinas, T. J., Department of R
 ![poster image goes here](link)
 
 `2013`
-Wass, L. T., Johnson, B. D., Taylor, J. L., Peinado, A. B., Joyner, M. J., Department of Anesthesiology, Mayo Clinic, Rochester, MN, Department of Physiology, Honors College, University of Arizona, Tucson, AZ, & Department of Health and Human Performance, Technical University of Madrid, Madrid, Spain (2013). Dopamine Mediated Carotid Body Influence On Blood Glucose During Prolonged Exercise In Humans [Poster presentation]. Summer Undergraduate Research Fellowship, Mayo Clinic, Rochester, MN, United States.
+Wass, L. T., Johnson, B. D., Taylor, J. L., Peinado, A. B., Joyner, M. J., Department of Anesthesiology, Mayo Clinic, Rochester, MN, Department of Physiology, Honors College, University of Arizona, Tucson, AZ, & Department of Health and Human Performance, Technical University of Madrid, Madrid, Spain (2013). *Dopamine Mediated Carotid Body Influence On Blood Glucose During Prolonged Exercise In Humans* [Poster presentation]. Summer Undergraduate Research Fellowship, Mayo Clinic, Rochester, MN, United States.
 ![poster image goes here](link)
 
 <!-- ### Patents
@@ -115,7 +107,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 `2024`
 COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association of Critical-Care Nurses*
 
-## VOLUNTEERING
+## Volunteering
 | Service | Hours |
 | :-------| ----: |
 | Senior Citizen Service | 47 |

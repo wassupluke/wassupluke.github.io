@@ -21,7 +21,7 @@ bs.prettify = prettify
 def main(filename):
     with open(filename) as f:
         md = f.read()
-    content = markdown.markdown(md)
+    content = markdown.markdown(md, extensions=["markdown.extensions.tables"])
 
     lines = content.split("\n")
     for i, line in enumerate(lines):
@@ -39,7 +39,7 @@ def main(filename):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{filename.strip(".md").title()}</title>
-    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="styles/default.css">
   </head>
   <body>
     {content}
@@ -49,6 +49,9 @@ def main(filename):
   </body>
 </html>
     """
+
+    if filename == "cv.md":
+        html = html.replace("default.css", "cv.css")
 
     print(f"{filename = } has been converted to")
     filename = filename.replace(".md", ".html")
