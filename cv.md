@@ -73,11 +73,13 @@ Eagle Scout, double silver palms, **Boy Scouts of America**, USA
 
 `2017`
 Wass, L. T., Alexander, A. E., Matsumoto, J. M., Salinas, T. J., Department of Radiology, Mayo Clinic, Rochester, MN, & Department of Dentistry, Mayo Clinic, Rochester, MN (2017). *Pioneering 3D Printed Educational Dental Models From Panorex Scans At Mayo Clinic* [Poster presentation]. Mayo Clinic, Rochester, MN, United States.
-![poster image goes here](link)
+
+![Pioneering 3D Printed Educational Dental Models From Panorex Scans At Mayo Clinic](images/panorex.jpg)
 
 `2013`
 Wass, L. T., Johnson, B. D., Taylor, J. L., Peinado, A. B., Joyner, M. J., Department of Anesthesiology, Mayo Clinic, Rochester, MN, Department of Physiology, Honors College, University of Arizona, Tucson, AZ, & Department of Health and Human Performance, Technical University of Madrid, Madrid, Spain (2013). *Dopamine Mediated Carotid Body Influence On Blood Glucose During Prolonged Exercise In Humans* [Poster presentation]. Summer Undergraduate Research Fellowship, Mayo Clinic, Rochester, MN, United States.
-![poster image goes here](link)
+
+![Dopamine Mediated Carotid Body Influence On Blood Glucose During Prolonged Exercise In Humans](images/dopamine.jpg)
 
 <!-- ### Patents
 
