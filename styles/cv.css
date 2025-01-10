@@ -234,6 +234,15 @@ img {
     border: 0;
 }
 
+img[src$="#avatar"] {
+    float: right; /* Positions the image to the right */
+    margin: 0 0 10px 10px; /* Adds spacing between the image and surrounding text */
+    border-radius: 50%; /* Makes the image circular */
+    max-width: 150px; /* Limits the image size */
+    width: 100%; /* Ensures responsiveness */
+    height: auto; /* Maintains aspect ratio */
+}
+
 /**
  * Correct overflow displayed oddly in IE 9.
  */
