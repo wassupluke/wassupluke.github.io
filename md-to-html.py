@@ -29,7 +29,7 @@ def main(filename):
             lines[i] = f"<header>\n{line}\n</header>"
 
     content = "".join(map(str, lines))
-    soup = bs(content)
+    soup = bs(content, "html.parser")
     content = soup.prettify()
     content = content.replace("\n", "\n    ")
 
@@ -58,17 +58,15 @@ def main(filename):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) == 2:
-        filename = sys.argv[1]
-        multifile = False
-    elif len(sys.argv) > 2:
-        multifile = True
+    if len(sys.argv) < 2:
+        filenames = [input("Markdown file(s) to convert? ")]
+        filenames = re.split(";|; |,|, | ", str(filenames)[2:-2])
+        if not all(arg.endswith(".md") is True for arg in filenames):
+            sys.exit("You gave a file that didn't end in .md, try again")
+    elif len(sys.argv) > 2 and all(arg.endswith(".md") is True for arg in sys.argv[1:]):
         filenames = sys.argv[1:]
     else:
-        filename = input("Markdown file to convert? ")
+        sys.exit("That probably wasn't a Markdown file, try again")
 
-    if multifile:
-        for filename in filenames:
-            main(filename)
-    else:
+    for filename in filenames:
         main(filename)
