@@ -8,16 +8,16 @@ Bachelor of Science in Nursing, Registered Nurse, Critical Care Registered Nurse
 
 ## Currently
 
-Demonstrating the art of compassionate, level-headed, capable nursing to the next generation
+Demonstrating the art of compassionate, level-headed, capable nursing to the next generation.
 
 ### Specialized in
 
-Care of the critically ill, including, but not limited to, thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, status 1A heart patients, OB, and occasionally CV surgery, neurosurgery, and medical patients
+Care of the critically ill, including, but not limited to, thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, status 1A heart patients, OB, and occasionally CV surgery, neurosurgery, and medical patients.
 
 
 ### Research interests
 
-Alcohol withdrawal, ICU delirium, athletic and endurance physiology, integrated bedside technologies, presentation of complex critical care concepts
+Alcohol withdrawal, ICU delirium, athletic and endurance physiology, integrated bedside technologies, presentation of complex critical care concepts.
 
 
 ## Education
