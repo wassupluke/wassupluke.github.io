@@ -791,7 +791,9 @@ td::selection,th::selection,caption::selection{background-color:rgba(180,237,95,
 .inverted a{color:#acd1d5
 }
 
-
+footer {
+    text-align: center;
+    color: #bababa;
 }
 
 .highlight .c{color:#998;font-style:italic

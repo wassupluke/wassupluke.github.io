@@ -9,7 +9,7 @@ Demonstrating the art of compassionate, level-headed, capable nursing to the nex
 
 ### Specialized in
 
-Care of the critically ill, including, but not limited to, thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, status 1A heart patients, OB, and occasionally CV Surgery, neurosurgery, and medical patients
+Care of the critically ill, including, but not limited to, thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, status 1A heart patients, OB, and occasionally CV surgery, neurosurgery, and medical patients
 
 
 ### Research interests
@@ -20,10 +20,10 @@ Alcohol withdrawal, ICU delirium, athletic and endurance physiology, integrated 
 ## Education
 
 `2016 - 2019`
-**BS Nursing, University of Minnesota.**
+**BS Nursing, University of Minnesota**
 
 `2012 - 2015`
-**BSHS Physiology, University of Arizona College of Medicine.**
+**BSHS Physiology, University of Arizona College of Medicine**
 
 `2010 - 2012, 2014, 2016`
 **Rochester Community and Technical College**
@@ -35,34 +35,34 @@ ACLS, BLS, CCRN, NIHSS, TNCC
 
 ## Awards
 
-`2024`
-5th place, *Crazy Horse Half Marathon*, Hill City, SD  
-10th place, *Mount Rushmore Half Marathon*, Keystone, SD  
+`2024`  
+5th place, **Crazy Horse Half Marathon**, Hill City, SD  
+10th place, **Mount Rushmore Half Marathon**, Keystone, SD  
 
-`2023`
-Nominee, *Daisy Award*, Rochester, MN
+`2023`  
+Nominee, **Daisy Award**, Rochester, MN
 
-`2022`
-1st place, *Bemidji 10K*, Bejidji, MN  
-2nd place, *ZeroOut Prostate Cancer 5K*, Twin Cities, MN  
-77th place, *Fargo Full Marathon*, Fargo, ND
+`2022`  
+1st place, **Bemidji 10K**, Bejidji, MN  
+2nd place, **ZeroOut Prostate Cancer 5K**, Twin Cities, MN  
+77th place, **Fargo Full Marathon**, Fargo, ND
 
-`2021`
-3rd place, *Minnesota State Time Trial Championship*, St Peter, MN
+`2021`  
+3rd place, **Minnesota State Time Trial Championship**, St Peter, MN
 
-`2014`
-Member, *Gamma Beta Phi Honors Society*, University of Arizona  
-Member, *Dean's List*, University of Arizona  
-Recipient, *Mayo Clinic Dependent Scholarship*, Rochester, MN  
+`2014`  
+Member, **Gamma Beta Phi Honors Society**, University of Arizona  
+Member, **Dean's List**, University of Arizona  
+Recipient, **Mayo Clinic Dependent Scholarship**, Rochester, MN  
 
-`2012`
-Inductee, *Honors College Induction*, University of Arizona
+`2012`  
+Inductee, **Honors College Induction**, University of Arizona
 
-`2011`
-Member, *Phi Theta Kappa International Honor Society*, Rochester Community and Technical College
+`2011`  
+Member, **Phi Theta Kappa International Honor Society**, Rochester Community and Technical College
 
-`2010 - Present`
-Eagle Scout, double silver palms, *Boy Scouts of America*, USA
+`2010 - Present`  
+Eagle Scout, double silver palms, **Boy Scouts of America**, USA
 
 
 ## Publications

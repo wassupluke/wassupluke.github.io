@@ -1,5 +1,7 @@
 # Nursing
 
+> An up-to-date copy of my curriculum vitae can be found [here](cv.html)
+
 ## Sites I use professionally
 
 ### [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
