@@ -29,9 +29,9 @@ def main(filename):
             lines[i] = f"<header>\n{line}\n</header>"
 
     content = "".join(map(str, lines))
-    soup = bs(content, "html.parser")
-    content = soup.prettify()
-    content = content.replace("\n", "\n    ")
+    #    soup = bs(content, "html.parser")
+    #    content = soup.prettify()
+    #    content = content.replace("\n", "\n    ")
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
