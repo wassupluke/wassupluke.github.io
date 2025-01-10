@@ -14,7 +14,7 @@ I personally use this for tracking my performance on different "segments" of roa
 From the site, "Intervals.icu analyzes your rides, runs, swims and other activities.It provides basic and advanced analytics and planning in an easy to use web interface with support for desktops, phones and tablets. Follow your friends and help them progress, track your FTP without doing tests, coach other athletes, communicate with the built in chat, build a workout library and plan your training!"
 
 I do all my data analysis and training/race performance evaluations with this site.  
-This is also here I do my coaching for athletes.
+This is also where I do my coaching for athletes.
 
 Heavily customizable but has a fairly steep learning curve.
 
