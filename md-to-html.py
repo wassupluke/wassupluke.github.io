@@ -63,7 +63,9 @@ if __name__ == "__main__":
         filenames = re.split(";|; |,|, | ", str(filenames)[2:-2])
         if not all(arg.endswith(".md") is True for arg in filenames):
             sys.exit("You gave a file that didn't end in .md, try again")
-    elif len(sys.argv) > 2 and all(arg.endswith(".md") is True for arg in sys.argv[1:]):
+    elif len(sys.argv) >= 2 and all(
+        arg.endswith(".md") is True for arg in sys.argv[1:]
+    ):
         filenames = sys.argv[1:]
     else:
         sys.exit("That probably wasn't a Markdown file, try again")
