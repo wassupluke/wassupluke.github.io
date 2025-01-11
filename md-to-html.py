@@ -25,6 +25,14 @@ def main(filename: str) -> None:
     <link rel="stylesheet" href="styles/default.css">
   </head>
   <body>
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="nursing.html">Nursing</a>
+      <a href="https://instagram.com/lukewassphotography">Gallery</a>
+      <a href="athlete.html">Athletics</a>
+      <a href="https://github.com/wassupluke/">GitHub</a>
+      <a href="cv.html">CV</a>
+    </nav>
     {content}
     <footer>
       <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
