@@ -46,7 +46,7 @@ ACLS, BLS, CCRN, NIHSS, TNCC
 Nominee, **Daisy Award**, Rochester, MN
 
 `2022`  
-1st place, **Bemidji 10K**, Bejidji, MN  
+1st place, **Bemidji 10K**, Bemidji, MN  
 2nd place, **ZeroOut Prostate Cancer 5K**, Twin Cities, MN  
 77th place, **Fargo Full Marathon**, Fargo, ND
 
@@ -126,5 +126,3 @@ COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association o
 <!-- ### Footer
 
 Last updated: January 2025 -->
-
-

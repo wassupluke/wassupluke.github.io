@@ -6,11 +6,79 @@
  * B: #402ecc
 */
 
+/* Variables */
 :root {
   --red: #cc402e;
   --green: #2ecc40;
   --blue: #402ecc;
-  --white: #ffffff;
+
+  --light_green: #01ff70;
+
+  --white: #fff;
+  --dim_white: #fafafa;
+  --lighter_gray: #999;
+  --light_gray: #575757;
+  --medium_gray: #333;
+  --dark_gray: #222;
+}
+
+/* Global styles */
+html,
+body {
+  background-color: var(--dark_gray);
+  min-height: 100%;
+  line-height: 1.85;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  color: var(--dim_white);
+  margin: 0;
+  padding: .25rem;
+}
+
+/* Navigation styles */
+nav {
+    background-color: var(--medium_gray);
+    overflow: hidden; /* Ensures no extra content spills out */
+    position: fixed; /* Sticks to the top of the page */
+    top: 0; /* Aligns to the very top */
+    width: 100%; /* Spans the entire width of the viewport */
+    z-index: 1000; /* Ensures the menu bar stays on top */
+    display: flex; /* Enables Flexbox for alignment */
+    justify-content: center; /* Centers the menu items horizontally */
+    padding: 0; /* Removes unnecessary padding */
+}
+
+nav a {
+    display: block; /* Makes links clickable across their full size */
+    color: var(--white);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: var(--light_gray);
+    color: var(--white); /* Ensures text remains white */
+}
+
+nav a:visited {
+    color: var(--white); /* Keep the text white after being visited */
+}
+
+nav a.active {
+  background: linear-gradient(to bottom, #2ecc40 0%, #28a745 100%);
+  color: var(--dark_gray);
+  font-weight: bold;
+}
+
+/* Content container */
+.container {
+    margin: 6rem auto 1rem; /* Centers content with top and bottom spacing */
+    max-width: 66rem; /* Restricts content width */
+    padding: 0.25rem; /* Adds padding inside the container */
+    line-height: 1.45;
 }
 
 pre,
@@ -22,6 +90,7 @@ pre {
   padding: .5rem;
   line-height: 1.25;
   overflow-x: scroll;
+  background-color: var(--medium_gray);
 }
 
 @media print {
@@ -54,7 +123,7 @@ pre {
 
   pre,
   blockquote {
-    border: 1px solid #999;
+    border: 1px solid var(--lighter_gray);
     page-break-inside: avoid;
   }
 
@@ -86,7 +155,7 @@ pre {
 
 a,
 a:visited {
-  color: #01ff70;
+  color: var(--light_green);
 }
 
 a:hover,
@@ -97,10 +166,6 @@ a:active {
 
 .retro-no-decoration {
   text-decoration: none;
-}
-
-html {
-  font-size: 12px;
 }
 
 @media screen and (min-width: 32rem) and (max-width: 66rem) {
@@ -115,10 +180,7 @@ html {
   }
 }
 
-body {
-  line-height: 1.85;
-}
-
+/* Typography */
 p,
 .retro-p {
   font-size: 1rem;
@@ -188,29 +250,6 @@ textarea {
   max-width: 100%;
 }
 
-html,
-body {
-  background-color: #222;
-  min-height: 100%;
-}
-
-html {
-  font-size: 18px;
-}
-
-body {
-  color: #fafafa;
-  font-family: "Courier New";
-  line-height: 1.45;
-  margin: 6rem auto 1rem;
-  max-width: 66rem;
-  padding: .25rem;
-}
-
-pre {
-  background-color: #333;
-}
-
 blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
@@ -218,5 +257,5 @@ blockquote {
 
 footer {
     text-align: center;
-    color: #484848;
+    color: var(--light_gray);
 }
