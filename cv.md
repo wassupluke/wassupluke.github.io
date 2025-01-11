@@ -46,7 +46,7 @@ $10^{th}$ place, **Mount Rushmore Half Marathon**, Keystone, SD
 Nominee, **Daisy Award**, Rochester, MN
 
 `2022`  
-$1^{st}$ place, **Bemidji 10K**, Bejidji, MN  
+$1^{st}$ place, **Bemidji 10K**, Bemidji, MN  
 $2^{nd}$ place, **ZeroOut Prostate Cancer 5K**, Twin Cities, MN  
 $77^{th}$ place, **Fargo Full Marathon**, Fargo, ND
 
