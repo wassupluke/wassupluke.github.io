@@ -39,19 +39,19 @@ ACLS, BLS, CCRN, NIHSS, TNCC
 ## Awards
 
 `2024`  
-$5^{th}$ place, **Crazy Horse Half Marathon**, Hill City, SD  
-$10^{th}$ place, **Mount Rushmore Half Marathon**, Keystone, SD  
+5th place, **Crazy Horse Half Marathon**, Hill City, SD  
+10th place, **Mount Rushmore Half Marathon**, Keystone, SD  
 
 `2023`  
 Nominee, **Daisy Award**, Rochester, MN
 
 `2022`  
-$1^{st}$ place, **Bemidji 10K**, Bemidji, MN  
-$2^{nd}$ place, **ZeroOut Prostate Cancer 5K**, Twin Cities, MN  
-$77^{th}$ place, **Fargo Full Marathon**, Fargo, ND
+1st place, **Bemidji 10K**, Bemidji, MN  
+2nd place, **ZeroOut Prostate Cancer 5K**, Twin Cities, MN  
+77th place, **Fargo Full Marathon**, Fargo, ND
 
 `2021`  
-$3^{rd}$ place, **Minnesota State Time Trial Championship**, St Peter, MN
+3rd place, **Minnesota State Time Trial Championship**, St Peter, MN
 
 `2014`  
 Member, **Gamma Beta Phi Honors Society**, University of Arizona  
@@ -126,5 +126,3 @@ COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association o
 <!-- ### Footer
 
 Last updated: January 2025 -->
-
-
