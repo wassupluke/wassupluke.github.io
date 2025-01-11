@@ -2,23 +2,9 @@ import re
 import sys
 
 import markdown
-from bs4 import BeautifulSoup as bs
-
-# ---  CUSTOMIZE Prettify FUNCTION TO ALLOW INDENT WIDTH SPECIFICATION
-# https://stackoverflow.com/a/15513483/22771801
-og_prettify = bs.prettify
-r = re.compile(r"^(\s*)", re.MULTILINE)
 
 
-def prettify(self, encoding=None, formatter="minimal", indent_width=2):
-    return r.sub(r"\1" * indent_width, og_prettify(self, encoding, formatter))
-
-
-bs.prettify = prettify
-# ---
-
-
-def main(filename):
+def main(filename: str) -> None:
     with open(filename) as f:
         md = f.read()
     content = markdown.markdown(md, extensions=["markdown.extensions.tables"])
@@ -29,9 +15,6 @@ def main(filename):
             lines[i] = f"<header>\n{line}\n</header>"
 
     content = "".join(map(str, lines))
-    #    soup = bs(content, "html.parser")
-    #    content = soup.prettify()
-    #    content = content.replace("\n", "\n    ")
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
