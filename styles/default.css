@@ -90,7 +90,7 @@ pre {
   padding: .5rem;
   line-height: 1.25;
   overflow-x: scroll;
-  background-color: var(--medium_grey);
+  background-color: var(--medium_gray);
 }
 
 @media print {
