@@ -216,6 +216,39 @@ blockquote {
   padding-left: 1rem;
 }
 
+/* Base styles for the menu bar */
+nav {
+    background-color: #333; /* Dark background for the menu */
+    overflow: hidden; /* Ensures no extra content spills out */
+    position: fixed; /* Sticks to the top of the page */
+    top: 0; /* Aligns to the very top */
+    width: 100%; /* Spans the entire width of the viewport */
+    z-index: 1000; /* Ensures the menu bar stays on top */
+}
+
+/* Styles for menu links */
+nav a {
+    float: left; /* Aligns links horizontally */
+    display: block; /* Makes links clickable across their full size */
+    color: white; /* White text color */
+    text-align: center; /* Centers the text in the link area */
+    padding: 14px 20px; /* Adds spacing around the text */
+    text-decoration: none; /* Removes the underline */
+    font-size: 17px; /* Adjusts font size */
+}
+
+/* Hover effect for links */
+nav a:hover {
+    background-color: #575757; /* Changes background on hover */
+    color: #fff; /* Ensures text remains white */
+}
+
+/* Active link style */
+nav a.active {
+    background-color: #04AA6D; /* Highlight the active page */
+    color: white;
+}
+
 footer {
     text-align: center;
     color: #484848;
