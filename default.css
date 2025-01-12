@@ -1,0 +1,311 @@
+/* from https://github.com/markdowncss */
+
+/* Triadic colors
+ * R: #cc402e
+ * G: #2ecc40
+ * B: #402ecc
+*/
+
+/* Variables */
+:root {
+  --red: #cc402e;
+  --green: #2ecc40;
+  --blue: #402ecc;
+
+  --light_green: #01ff70;
+
+  --white: #fff;
+  --dim_white: #fafafa;
+  --lighter_gray: #999;
+  --light_gray: #575757;
+  --medium_gray: #333;
+  --dark_gray: #222;
+}
+
+/* Global styles */
+html,
+body {
+  background-color: var(--dark_gray);
+  min-height: 100%;
+  line-height: 1.85;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  color: var(--dim_white);
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation styles */
+nav {
+    background-color: var(--medium_gray);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.nav-links {
+    display: flex;
+    gap: 1rem;
+}
+
+/* Styles for individual links */
+.nav-links a {
+    color: var(--white);
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: var(--light_gray);
+    color: var(--white); /* Ensures text remains white */
+}
+
+.nav-links a:visited {
+    color: var(--white); /* Keep the text white after being visited */
+}
+
+.nav-links a.active {
+  background: linear-gradient(to bottom, #2ecc40 0%, #28a745 100%);
+  color: var(--dark_gray);
+  font-weight: bold;
+}
+
+.hamburger {
+    font-size: 1.5rem;
+    color: var(--white);
+    background: none;
+    border: none;
+    cursor: pointer;
+	display: none; /* hidden on larger screens */
+	margin: 0;
+}
+
+/* Mobile-specific styles */
+@media screen and (max-width: 48rem) {
+    .hamburger {
+        display: block; /* Show hamburger button */
+    }
+
+    .nav-links {
+        display: none; /* Hide links initially */
+        flex-direction: column; /* Stack links vertically */
+        width: 100%; /* Full width of the viewport */
+        background-color: var(--medium_gray);
+        position: absolute;
+        top: 100%; /* Push below the nav bar */
+        left: 0;
+    }
+
+    /* Show the menu when active */
+    .nav-links.active {
+        display: flex;
+    }
+}
+
+/* Content container */
+.container {
+    margin: 6rem auto 1rem; /* Centers content with top and bottom spacing */
+    max-width: 66rem;
+    padding: 0.25rem;
+    line-height: 1.45;
+}
+
+pre,
+code {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+pre {
+  padding: .5rem;
+  line-height: 1.25;
+  overflow-x: scroll;
+  background-color: var(--medium_gray);
+}
+
+@media print {
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+    content: "";
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid var(--lighter_gray);
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}
+
+a,
+a:visited {
+  color: var(--light_green);
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: var(--green);
+}
+
+@media screen and (min-width: 32rem) and (max-width: 66rem) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 66rem) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/* Typography */
+p {
+  font-size: 1rem;
+  margin-bottom: 1.3rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 1.414rem 0 .5rem;
+  font-weight: inherit;
+  line-height: 1.42;
+  padding: 0 0.25rem 0 0.25rem;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 3.998rem;
+  word-wrap: break-word;
+}
+
+h2 {
+  font-size: 2.827rem;
+  background-color: var(--blue);
+}
+
+h3 {
+  font-size: 1.999rem;
+}
+
+h4 {
+  font-size: 1.414rem;
+}
+
+h5 {
+  font-size: 1.121rem;
+}
+
+h6 {
+  font-size: .66rem;
+}
+
+small {
+  font-size: .707em;
+}
+
+/* Mobile-specific styles */
+@media screen and (max-width: 48rem) {
+	.container {
+		margin: 3rem auto 1rem; /* Centers content with top and bottom spacing */
+}
+	h1 {
+		font-size: 2.5rem;
+		line-height: 1.2;
+	}
+	
+	h2 {
+		font-size: 2rem;
+	}
+	
+	h3 {
+		font-size: 1.5rem;
+	}
+	
+	h4 {
+		font-size: 1.2rem;
+	}
+	
+	h5 {
+		font-size: 1rem;
+	}
+}
+
+/* https://github.com/mrmrs/fluidity */
+
+img,
+canvas,
+iframe,
+video,
+svg,
+select,
+textarea {
+  max-width: 100%;
+}
+
+blockquote {
+  border-left: 3px solid #01ff70;
+  padding-left: 1rem;
+}
+
+footer {
+    text-align: center;
+    color: var(--light_gray);
+}
