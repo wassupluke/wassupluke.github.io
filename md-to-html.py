@@ -16,17 +16,33 @@ def main(filename: str) -> None:
 
     content = "".join(map(str, lines))
 
-    navbar = """    <nav>
-      <a href="index.html" class="active">Home</a>
-      <a href="nursing.html">Nursing</a>
-      <a href="https://instagram.com/lukewassphotography">Gallery</a>
-      <a href="athlete.html">Athletics</a>
-      <a href="https://github.com/wassupluke/">GitHub</a>
-      <a href="cv.html">CV</a>
+    navbar = """<nav>
+      <button class="hamburger" aria-label="Toggle navigation">
+      ☰
+      </button>
+      <div class="nav-links">
+        <a href="index.html" class="active">Home</a>
+        <a href="nursing.html">Nursing</a>
+        <a href="https://instagram.com/lukewassphotography">Gallery</a>
+        <a href="athlete.html">Athletics</a>
+        <a href="https://github.com/wassupluke/">GitHub</a>
+        <a href="cv.html">CV</a>
+      </div>
     </nav>
     """
+    
+    javascript = """<script>
+        // Toggle the visibility of the menu
+        document.querySelector('.hamburger').addEventListener('click', () => {
+            const navLinks = document.querySelector('.nav-links');
+            navLinks.classList.toggle('active');
+        });
+    </script>
+    """
+
     if filename == "cv.md":
         navbar = ""
+        javascript = ""
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -45,6 +61,7 @@ def main(filename: str) -> None:
       <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
     </footer>
   </body>
+  {javascript}
 </html>
     """
 
@@ -53,7 +70,7 @@ def main(filename: str) -> None:
 
     print(f"{filename = } has been converted to")
     filename = filename.replace(".md", ".html")
-    with open(filename, "w") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"{html = }\nand saved as {filename = }\n\n")
 
