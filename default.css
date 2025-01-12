@@ -265,7 +265,8 @@ small {
 @media screen and (max-width: 48rem) {
 	.container {
 		margin: 3rem auto 1rem; /* Centers content with top and bottom spacing */
-}
+	}
+	
 	h1 {
 		font-size: 2.5rem;
 		line-height: 1.2;
