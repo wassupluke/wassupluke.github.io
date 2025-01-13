@@ -113,8 +113,8 @@ nav {
 /* Content container */
 .container {
     margin: 6rem auto 1rem; /* Centers content with top and bottom spacing */
-    max-width: 66rem; /* Restricts content width */
-    padding: 0.25rem; /* Adds padding inside the container */
+    max-width: 66rem;
+    padding: 0.25rem;
     line-height: 1.45;
 }
 
@@ -226,6 +226,7 @@ h4 {
   margin: 1.414rem 0 .5rem;
   font-weight: inherit;
   line-height: 1.42;
+  padding: 0 0.25rem 0 0.25rem;
 }
 
 h1 {
@@ -262,8 +263,13 @@ small {
 
 /* Mobile-specific styles */
 @media screen and (max-width: 48rem) {
+	.container {
+		margin: 3rem auto 1rem; /* Centers content with top and bottom spacing */
+	}
+	
 	h1 {
 		font-size: 2.5rem;
+		line-height: 1.2;
 	}
 	
 	h2 {
@@ -280,7 +286,7 @@ small {
 	
 	h5 {
 		font-size: 1rem;
-	}	
+	}
 }
 
 /* https://github.com/mrmrs/fluidity */

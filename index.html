@@ -7,13 +7,18 @@
     <link rel="stylesheet" href="styles/default.css">
   </head>
   <body>
-        <nav>
-      <a href="index.html" class="active">Home</a>
-      <a href="nursing.html">Nursing</a>
-      <a href="https://instagram.com/lukewassphotography">Gallery</a>
-      <a href="athlete.html">Athletics</a>
-      <a href="https://github.com/wassupluke/">GitHub</a>
-      <a href="cv.html">CV</a>
+    <nav>
+      <button class="hamburger" aria-label="Toggle navigation">
+      ☰
+      </button>
+      <div class="nav-links">
+        <a href="index.html" class="active">Home</a>
+        <a href="nursing.html">Nursing</a>
+        <a href="https://instagram.com/lukewassphotography">Gallery</a>
+        <a href="athlete.html">Athletics</a>
+        <a href="https://github.com/wassupluke/">GitHub</a>
+        <a href="cv.html">CV</a>
+      </div>
     </nav>
     
     <div class="container">
@@ -25,5 +30,13 @@
       <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
     </footer>
   </body>
+  <script>
+        // Toggle the visibility of the menu
+        document.querySelector('.hamburger').addEventListener('click', () => {
+            const navLinks = document.querySelector('.nav-links');
+            navLinks.classList.toggle('active');
+        });
+    </script>
+    
 </html>
     

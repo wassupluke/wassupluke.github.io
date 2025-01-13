@@ -7,23 +7,36 @@
     <link rel="stylesheet" href="styles/default.css">
   </head>
   <body>
-        <nav>
-      <a href="index.html" class="active">Home</a>
-      <a href="nursing.html">Nursing</a>
-      <a href="https://instagram.com/lukewassphotography">Gallery</a>
-      <a href="athlete.html">Athletics</a>
-      <a href="https://github.com/wassupluke/">GitHub</a>
-      <a href="cv.html">CV</a>
+    <nav>
+      <button class="hamburger" aria-label="Toggle navigation">
+      ☰
+      </button>
+      <div class="nav-links">
+        <a href="index.html" class="active">Home</a>
+        <a href="nursing.html">Nursing</a>
+        <a href="https://instagram.com/lukewassphotography">Gallery</a>
+        <a href="athlete.html">Athletics</a>
+        <a href="https://github.com/wassupluke/">GitHub</a>
+        <a href="cv.html">CV</a>
+      </div>
     </nav>
     
     <div class="container">
       <header>
 <h1>Nursing</h1>
-</header><blockquote><p>An up-to-date copy of my curriculum vitae can be found <a href="cv.html">here</a></p></blockquote><h2>Sites I use professionally</h2><h3><a href="https://pubchem.ncbi.nlm.nih.gov/">PubChem</a></h3><p>From the website, "PubChem is the world's largest collection of freely accessible chemical information. Search chemicals by name, molecular formula, structure, and other identifiers. Find chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations and more."</p><h3><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></h3><p>From the website, "PubMed® comprises more than 37 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites."</p><h3><a href="https://www.uptodate.com/contents/search">UpToDate</a></h3><p>From the website, "The trusted evidence-based resource to answer clinical questions"</p><h2>Sites I use personally</h2><h3><a href="https://onepagericu.com/">ICU One Pager</a></h3><p>Excellent focused critical care education resource in single-page format.</p><h2>New to me</h2><h3><a href="https://ctdbase.org">Comparative Toxicogenomics Database</a></h3><p>From the website, "The Comparative Toxicogenomics Database (CTD) is a publicly available research resource that curates scientific data describing relationships between chemicals, genes, and human diseases. A primary goal of CTD is to advance the understanding of the effects of environmental chemicals on human health."</p><h3><a href="https://www.hospitalsafetygrade.org/">LeapFrog Scores</a></h3><p>Hospital quality and safety scores. How does <strong>your</strong> hospital rank?</p><h2>Get Certified / Education / CEUs</h2><h3><a href="https://abiomedloop.csod.com/LMS/catalog/Welcome.aspx">ABIOMED Academy</a></h3><p>Your source for Impella education</p><h2>Learn with me</h2><h3>ABGs</h3><p>Go from ABGs giving you the heebie-jeebies to making them ABGeasies.</p><blockquote><p>I have yet to write this content. If you've been one of my students, you'll remember the two best friends on a mission to save the world.</p></blockquote>
+</header><blockquote><p>An up-to-date copy of my curriculum vitae can be found <a href="cv.html">here</a></p></blockquote><h2>Sites I use professionally</h2><h3><a href="https://pubchem.ncbi.nlm.nih.gov/">PubChem</a></h3><p>From the website, "PubChem is the world's largest collection of freely accessible chemical information. Search chemicals by name, molecular formula, structure, and other identifiers. Find chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations and more."</p><h3><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></h3><p>From the website, "PubMedÂ® comprises more than 37 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites."</p><h3><a href="https://www.uptodate.com/contents/search">UpToDate</a></h3><p>From the website, "The trusted evidence-based resource to answer clinical questions"</p><h2>Sites I use personally</h2><h3><a href="https://onepagericu.com/">ICU One Pager</a></h3><p>Excellent focused critical care education resource in single-page format.</p><h2>New to me</h2><h3><a href="https://ctdbase.org">Comparative Toxicogenomics Database</a></h3><p>From the website, "The Comparative Toxicogenomics Database (CTD) is a publicly available research resource that curates scientific data describing relationships between chemicals, genes, and human diseases. A primary goal of CTD is to advance the understanding of the effects of environmental chemicals on human health."</p><h3><a href="https://www.hospitalsafetygrade.org/">LeapFrog Scores</a></h3><p>Hospital quality and safety scores. How does <strong>your</strong> hospital rank?</p><h2>Get Certified / Education / CEUs</h2><h3><a href="https://abiomedloop.csod.com/LMS/catalog/Welcome.aspx">ABIOMED Academy</a></h3><p>Your source for Impella education</p><h2>Learn with me</h2><h3>ABGs</h3><p>Go from ABGs giving you the heebie-jeebies to making them ABGeasies.</p><blockquote><p>I have yet to write this content. If you've been one of my students, you'll remember the two best friends on a mission to save the world.</p></blockquote>
     </div>
     <footer>
       <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
     </footer>
   </body>
+  <script>
+        // Toggle the visibility of the menu
+        document.querySelector('.hamburger').addEventListener('click', () => {
+            const navLinks = document.querySelector('.nav-links');
+            navLinks.classList.toggle('active');
+        });
+    </script>
+    
 </html>
     
