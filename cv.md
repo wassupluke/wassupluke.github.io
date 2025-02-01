@@ -4,7 +4,6 @@
 
 Bachelor of Science in Nursing, Registered Nurse, Critical Care Registered Nurse.
 
-[Wassupluke@gmail.com](mailto:wassupluke@gmail.com)  `+1 507 254 0336`
 
 ## Currently
 
