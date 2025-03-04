@@ -114,8 +114,8 @@ COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association o
 | :-------| ----: |
 | Senior Citizen Service | 47 |
 | Channel One Food Drive | 16 |
+| Harvest Call Food Packaging | 9 |
 | Salvation Army Bell Ringing	| 8 |
-| Harvest Call Food Packaging | 7 |
 | Home Health Care Assistance | 6 |
 | In His Name Food Drive for greater Rochester, MN area | 6 |
 | HopeFest Tucson: Medical Escort | 5 |
