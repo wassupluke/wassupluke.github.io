@@ -1,18 +1,18 @@
-![me](images/me.jpg#avatar "me")
+<!-- ![me](images/me.jpg#avatar "me") -->
 
-# Luke Wass
+# Luke Wass, BSN, RN, CCRN
 
-Bachelor of Science in Nursing, Registered Nurse, Critical Care Registered Nurse.
+## About
 
-
-### Specialized in
+Critical care nurse with over 5 years of ICU experience across diverse high-acuity environments across the country. Committed to excellence in patient care, clinical education, and advancing the profession through research and innovation. Passionate about pursuing nurse anesthesia to provide safe, evidence-based, and compassionate care.
+## Specialized in
 
 Care of critically ill thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, and occasionally CV surgery, OB, neurosurgery, and medical patients.
 
 
-### Research interests
+## Research interests
 
-Alcohol withdrawal, TBI management, ICU delirium, athletic and endurance physiology, integrated bedside technologies, enhanced clinical education, and leveraging AI in healthcare.
+Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, and leveraging AI in healthcare.
 
 
 ## Education
@@ -80,27 +80,68 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`Spring 2024`
-**ICU Nursing Clinical Adjunct Instructor**, *Nano Nagle Online School of Nursing, St. Ambrose University*, Davenport, IA
+**ICU Nursing Clinical Adjunct Instructor**  
+*St. Ambrose University – Nano Nagle Online School of Nursing*  
+*Spring 2024*
+- Facilitated online ICU clinical instruction for undergraduate nursing students  
+- Provided mentorship in critical thinking, evidence-based practice, and clinical documentation  
+- Delivered interactive content on ventilator management, sedation protocols, and ICU workflows  
 
-`03/2024 - 01/2025`
-**SICU Registered Nurse** (temporary permanent staff), *Monument Health Rapid City Regional Hospital*, Rapid City, SD
+---
 
-`07/2023 - 02/2024`
-**SICU Registered Nurse** (travel), *Monument Health Rapid City Regional Hospital*, Rapid City, SD
+**SICU Registered Nurse (Temporary Permanent Staff)**  
+*Monument Health Rapid City Regional Hospital, SD*  
+*March 2024 – January 2025*  
+- Cared for post-surgical patients in a high-acuity surgical ICU  
+- Delivered comprehensive care for thoracic, vascular, orthopedic, and trauma cases  
+- Precepted new nurses and travelers; ensured safe and timely onboarding  
 
-`03/2023 - 07/2023`
-**MICU Registered Nurse** (travel), *Good Samaritan Hospital*, Puyallup, WA
+---
 
-`03/2022 - 06/2023`
-**MICU Registered Nurse** (travel), *Northern Light Main Coast Memorial Hospital*, Ellsworth, ME
+**SICU Registered Nurse (Travel)**  
+*Monument Health Rapid City Regional Hospital, SD*  
+*July 2023 – February 2024*  
+- Managed ventilated and hemodynamically unstable patients post-surgery  
+- Collaborated with interdisciplinary teams for complex patient plans  
+- Demonstrated adaptability and leadership as a travel RN in fast-paced environment  
 
-`03/2022 - Present`
-**Multi-Specialty SICU Registered Nurse** (PRN), *Mayo Clinic, St Marys Campus*, Rochester, MN
+---
 
-`07/2019 - 03/2022`
-**Multi-Specialty SICU Registered Nurse** (staff), *Mayo Clinic, St Marys Campus*, Rochester, MN
+**MICU Registered Nurse (Travel)**  
+*Good Samaritan Hospital, Puyallup, WA*  
+*March 2023 – July 2023*  
+- Provided care for critically ill medical ICU patients including respiratory failure, sepsis, and multi-organ dysfunction  
+- Participated in code blue and rapid response interventions  
+- Proficient in Epic EMR and ICU documentation standards  
 
+---
+
+**MICU Registered Nurse (Travel)**  
+*Northern Light Main Coast Memorial Hospital, Ellsworth, ME*  
+*March 2022 – June 2023*  
+- Delivered high-quality care in a community hospital ICU setting  
+- Managed central lines, arterial lines, and advanced airway support  
+- Supported continuity of care through collaborative interdisciplinary rounding  
+
+---
+
+**Multi-Specialty SICU Registered Nurse (PRN)**  
+*Mayo Clinic, St Marys Campus, Rochester, MN*  
+*March 2022 – Present*  
+- Float between ICUs including thoracic, vascular, orthopedic, ENT, and urology surgical units  
+- Recognized for rapid adaptability and teamwork in variable staffing roles  
+- Assist with advanced procedures including IR-guided lytic therapies and bedside ultrasound  
+
+---
+
+**Multi-Specialty SICU Registered Nurse (Staff)**  
+*Mayo Clinic, St Marys Campus, Rochester, MN*  
+*July 2019 – March 2022*  
+- Delivered critical care to post-op surgical patients in a level-1 trauma center  
+- Served as preceptor and charge nurse on rotation  
+- Participated in quality improvement initiatives to improve patient safety  
+
+---
 
 ## Professional Development
 `2024`
