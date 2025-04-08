@@ -28,7 +28,7 @@ Alcohol withdrawal, TBI management, ICU delirium, athletic and endurance physiol
 
 
 ## Certifications
-ACLS, BLS, CCRN, NIHSS, TNCC, CMC (pending examination)
+ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
 
 ## Awards
@@ -49,6 +49,13 @@ Member, **Phi Theta Kappa International Honor Society**, Rochester Community and
 
 `2010 - Present`  
 Eagle Scout, double silver palms, **Boy Scouts of America**, USA
+
+
+## Committees
+
+`2025` Quality Committee, **Mayo Clinic**, Rochester, MN
+
+> **Tasks:** Improving care plan and nursing shift note completion by implementing fast, accurate, patient specific, and efficient note templates.
 
 
 ## Publications
@@ -76,17 +83,23 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 `Spring 2024`
 **ICU Nursing Clinical Adjunct Instructor**, *Nano Nagle Online School of Nursing, St. Ambrose University*, Davenport, IA
 
-`07/2023 - 01/2025`
-**SICU Registered Nurse**, *Monument Health Rapid City Regional Hospital*, Rapid City, SD
+`03/2024 - 01/2025`
+**SICU Registered Nurse** (temporary permanent staff), *Monument Health Rapid City Regional Hospital*, Rapid City, SD
+
+`07/2023 - 02/2024`
+**SICU Registered Nurse** (travel), *Monument Health Rapid City Regional Hospital*, Rapid City, SD
 
 `03/2023 - 07/2023`
-**MICU Registered Nurse**, *Good Samaritan Hospital*, Puyallup, WA
+**MICU Registered Nurse** (travel), *Good Samaritan Hospital*, Puyallup, WA
 
 `03/2022 - 06/2023`
-**MICU Registered Nurse**, *Northern Light Main Coast Memorial Hospital*, Ellsworth, ME
+**MICU Registered Nurse** (travel), *Northern Light Main Coast Memorial Hospital*, Ellsworth, ME
 
-`07/2019 - Present`
-**Multi-Specialty SICU Registered Nurse**, *Mayo Clinic, St Marys Campus*, Rochester, MN
+`03/2022 - Present`
+**Multi-Specialty SICU Registered Nurse** (PRN), *Mayo Clinic, St Marys Campus*, Rochester, MN
+
+`07/2019 - 03/2022`
+**Multi-Specialty SICU Registered Nurse** (staff), *Mayo Clinic, St Marys Campus*, Rochester, MN
 
 
 ## Professional Development
