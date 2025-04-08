@@ -5,18 +5,14 @@
 Bachelor of Science in Nursing, Registered Nurse, Critical Care Registered Nurse.
 
 
-## Currently
-
-Demonstrating the art of compassionate, level-headed, capable nursing to the next generation.
-
 ### Specialized in
 
-Care of the critically ill, including, but not limited to, thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, status 1A heart patients, OB, and occasionally CV surgery, neurosurgery, and medical patients.
+Care of critically ill thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, and occasionally CV surgery, OB, neurosurgery, and medical patients.
 
 
 ### Research interests
 
-Alcohol withdrawal, ICU delirium, athletic and endurance physiology, integrated bedside technologies, presentation of complex critical care concepts.
+Alcohol withdrawal, TBI management, ICU delirium, athletic and endurance physiology, integrated bedside technologies, enhanced clinical education, and leveraging AI in healthcare.
 
 
 ## Education
@@ -32,25 +28,13 @@ Alcohol withdrawal, ICU delirium, athletic and endurance physiology, integrated 
 
 
 ## Certifications
-ACLS, BLS, CCRN, NIHSS, TNCC
+ACLS, BLS, CCRN, NIHSS, TNCC, CMC (pending examination)
 
 
 ## Awards
 
-`2024`  
-5th place, **Crazy Horse Half Marathon**, Hill City, SD  
-10th place, **Mount Rushmore Half Marathon**, Keystone, SD  
-
 `2023`  
 Nominee, **Daisy Award**, Rochester, MN
-
-`2022`  
-1st place, **Bemidji 10K**, Bemidji, MN  
-2nd place, **ZeroOut Prostate Cancer 5K**, Twin Cities, MN  
-77th place, **Fargo Full Marathon**, Fargo, ND
-
-`2021`  
-3rd place, **Minnesota State Time Trial Championship**, St Peter, MN
 
 `2014`  
 Member, **Gamma Beta Phi Honors Society**, University of Arizona  
@@ -102,7 +86,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 **MICU Registered Nurse**, *Northern Light Main Coast Memorial Hospital*, Ellsworth, ME
 
 `07/2019 - Present`
-**Multi-Specialty ICU Registered Nurse**, *Mayo Clinic, St Marys Campus*, Rochester, MN
+**Multi-Specialty SICU Registered Nurse**, *Mayo Clinic, St Marys Campus*, Rochester, MN
 
 
 ## Professional Development
