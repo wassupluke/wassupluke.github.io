@@ -33,29 +33,32 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
 ## Awards
 
-`2023`  
-Nominee, **Daisy Award**, Rochester, MN
+`2023` **Daisy Award** (Nominee) *Rochester, MN*  
+> Honored for compassionate nursing care and excellence in clinical practice.
 
-`2014`  
-Member, **Gamma Beta Phi Honors Society**, University of Arizona  
-Member, **Dean's List**, University of Arizona  
-Recipient, **Mayo Clinic Dependent Scholarship**, Rochester, MN  
+`2014` **Gamma Beta Phi Honors Society** (Member) *University of Arizona*  
+> National academic honor and service organization recognizing academic excellence and community engagement.
 
-`2012`  
-Inductee, **Honors College Induction**, University of Arizona
+`2014` **Dean's List** (Member) *University of Arizona*  
+> Earned for maintaining a GPA above 3.5 during full-time enrollment.
 
-`2011`  
-Member, **Phi Theta Kappa International Honor Society**, Rochester Community and Technical College
+`2014` **Mayo Clinic Dependent Scholarship** (Recipient) *Rochester, MN*  
+> Merit-based academic scholarship awarded to top 10–25% of eligible applicants based on standardized test performance and academic achievement.
 
-`2010 - Present`  
-Eagle Scout, double silver palms, **Boy Scouts of America**, USA
+`2012` **Honors College** (Inductee) *University of Arizona*  
+> The university’s academically rigorous Honors College based on academic performance and potential.
+
+`2011` **Phi Theta Kappa International Honor Society** (Member) *Rochester Community and Technical College*  
+> International honor society recognizing academic excellence among two-year college students; invitation based on GPA and leadership potential.
+
+`2010 - Present` **Eagle Scout with double Silver Palms** *Boy Scouts of America*  
+> Earning two Silver Palms represents continued leadership, community service, and merit beyond the Eagle rank. Fewer than 1% of Scouts achieve this distinction.
 
 
 ## Committees
 
-`2025` Quality Committee, **Mayo Clinic**, Rochester, MN
-
-> **Tasks:** Improving care plan and nursing shift note completion by implementing fast, accurate, patient specific, and efficient note templates.
+`2025` **Quality Committee** *Mayo Clinic*, Rochester, MN  
+> Improving care plan and nursing shift note completion by implementing fast, accurate, patient specific, and efficient note templates.
 
 
 ## Publications
@@ -82,70 +85,67 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 **ICU Nursing Clinical Adjunct Instructor**  
 *St. Ambrose University – Nano Nagle Online School of Nursing*  
-*Spring 2024*
-- Facilitated online ICU clinical instruction for undergraduate nursing students  
-- Provided mentorship in critical thinking, evidence-based practice, and clinical documentation  
-- Delivered interactive content on ventilator management, sedation protocols, and ICU workflows  
+*Spring 2024*  
+- Provided ICU clinical instruction for LPN-to-RN students.  
+- Provided mentorship in critical thinking, evidence-based practice, and clinical documentation.  
+- Delivered interactive content on ventilator management, sedation protocols, arterial blood gas interpretation, and ICU workflows.  
 
 ---
 
 **SICU Registered Nurse (Temporary Permanent Staff)**  
 *Monument Health Rapid City Regional Hospital, SD*  
 *March 2024 – January 2025*  
-- Cared for post-surgical patients in a high-acuity surgical ICU  
-- Delivered comprehensive care for thoracic, vascular, orthopedic, and trauma cases  
-- Precepted new nurses and travelers; ensured safe and timely onboarding  
+- Cared for post-surgical patients in a high-acuity cardiovascular surgical ICU.  
+- Delivered comprehensive care for primarily cardiovascular, neurosurgical, and trauma cases.  
+- Precepted new nurses and travelers; ensured safe and timely onboarding.  
 
 ---
 
 **SICU Registered Nurse (Travel)**  
 *Monument Health Rapid City Regional Hospital, SD*  
 *July 2023 – February 2024*  
-- Managed ventilated and hemodynamically unstable patients post-surgery  
-- Collaborated with interdisciplinary teams for complex patient plans  
-- Demonstrated adaptability and leadership as a travel RN in fast-paced environment  
+- See above.  
 
 ---
 
 **MICU Registered Nurse (Travel)**  
 *Good Samaritan Hospital, Puyallup, WA*  
 *March 2023 – July 2023*  
-- Provided care for critically ill medical ICU patients including respiratory failure, sepsis, and multi-organ dysfunction  
-- Participated in code blue and rapid response interventions  
-- Proficient in Epic EMR and ICU documentation standards  
+- Provided care for critically ill medical ICU patients including respiratory failure, sepsis, and multi-organ dysfunction.  
 
 ---
 
 **MICU Registered Nurse (Travel)**  
 *Northern Light Main Coast Memorial Hospital, Ellsworth, ME*  
 *March 2022 – June 2023*  
-- Delivered high-quality care in a community hospital ICU setting  
-- Managed central lines, arterial lines, and advanced airway support  
-- Supported continuity of care through collaborative interdisciplinary rounding  
+- Delivered high-quality care in a community hospital ICU setting.  
+- Managed central lines, arterial lines, and advanced airway support.  
+- Interpreted ECG strips on all ICU and telemetry patients by hand twice a shift.
+- Served as preceptor and charge nurse.  
+- Adapted quickly to Cerner for travel nurse contract, demonstrating flexibility and strong learning ability in a new EHR system.  
+- Recognized for rapid adaptability and teamwork in variable staffing roles.  
 
 ---
 
 **Multi-Specialty SICU Registered Nurse (PRN)**  
 *Mayo Clinic, St Marys Campus, Rochester, MN*  
 *March 2022 – Present*  
-- Float between ICUs including thoracic, vascular, orthopedic, ENT, and urology surgical units  
-- Recognized for rapid adaptability and teamwork in variable staffing roles  
-- Assist with advanced procedures including IR-guided lytic therapies and bedside ultrasound  
+- Float to all ICUs including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.  
+- Assist with managing patient care during conscious and moderate sedation.   
 
 ---
 
 **Multi-Specialty SICU Registered Nurse (Staff)**  
 *Mayo Clinic, St Marys Campus, Rochester, MN*  
 *July 2019 – March 2022*  
-- Delivered critical care to post-op surgical patients in a level-1 trauma center  
-- Served as preceptor and charge nurse on rotation  
-- Participated in quality improvement initiatives to improve patient safety  
+- Delivered critical care to post-op surgical patients in a level-1 trauma center.  
+- Served as preceptor and charge nurse.  
+- Proficient in Epic EMR and ICU documentation standards.  
 
 ---
 
 ## Professional Development
-`2024`
-COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association of Critical-Care Nurses*
+`2024` COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association of Critical-Care Nurses*
 
 ## Volunteering
 | Service | Hours |
