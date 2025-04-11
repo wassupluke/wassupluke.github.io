@@ -33,22 +33,22 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
 ## Awards
 
-`2023` **Daisy Award** (Nominee) *Rochester, MN*  
-> Honored for compassionate nursing care and excellence in clinical practice.
+`2023` **Daisy Award** *Rochester, MN*  
+> A special honor given to extraordinary nurses for compassionate contributions going above and beyond expectations in science and sensitivity. Nominated for delivering exceptional, compassionate care to patients and demonstrating clinical excellence in patient-centered care.
 
-`2014` **Gamma Beta Phi Honors Society** (Member) *University of Arizona*  
+`2014` **Gamma Beta Phi Honors Society** *University of Arizona*  
 > National academic honor and service organization recognizing academic excellence and community engagement.
 
-`2014` **Dean's List** (Member) *University of Arizona*  
+`2014` **Dean's List** *University of Arizona*  
 > Earned for maintaining a GPA above 3.5 during full-time enrollment.
 
-`2014` **Mayo Clinic Dependent Scholarship** (Recipient) *Rochester, MN*  
+`2014` **Mayo Clinic Dependent Scholarship** *Rochester, MN*  
 > Merit-based academic scholarship awarded to top 10–25% of eligible applicants based on standardized test performance and academic achievement.
 
-`2012` **Honors College** (Inductee) *University of Arizona*  
+`2012` **Honors College** *University of Arizona*  
 > The university’s academically rigorous Honors College based on academic performance and potential.
 
-`2011` **Phi Theta Kappa International Honor Society** (Member) *Rochester Community and Technical College*  
+`2011` **Phi Theta Kappa International Honor Society** *Rochester Community and Technical College*  
 > International honor society recognizing academic excellence among two-year college students; invitation based on GPA and leadership potential.
 
 `2010 - Present` **Eagle Scout with double Silver Palms** *Boy Scouts of America*  
