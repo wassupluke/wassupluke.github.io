@@ -4,16 +4,15 @@
 
 ## About
 
-Critical care nurse with over 5 years of ICU experience across diverse high-acuity environments across the country. Committed to excellence in patient care, clinical education, and advancing the profession through research and innovation. Passionate about pursuing nurse anesthesia to provide safe, evidence-based, and compassionate care.
+Critical care nurse with nearly six years of ICU experience in high-acuity environments across the United States. Demonstrates a strong commitment to excellence in patient care, clinical education, and professional advancement through collaborative innovation. Actively pursuing nurse anesthesia to deliver safe, evidence-based, and compassionate care.
+
 ## Specialized in
 
-Care of critically ill thoracic, vascular, orthopedic, plastics, urology, ENT, oral/facial, IR-lytic procedures, and occasionally CV surgery, OB, neurosurgery, and medical patients.
-
+Care of critically ill patients from a wide range of surgical and medical specialties, including thoracic, vascular, orthopedic, plastics, urology, ENT, oral and maxillofacial, and interventional radiology procedures such as lytic therapy. Additional experience with cardiovascular surgery, neurosurgery, trauma, and complex medical cases.
 
 ## Research interests
 
 Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, and leveraging AI in healthcare.
-
 
 ## Education
 
@@ -26,10 +25,8 @@ Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced cl
 `2010 - 2012, 2014, 2016`
 **Rochester Community and Technical College**
 
-
 ## Certifications
 ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
-
 
 ## Awards
 
@@ -54,12 +51,10 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 `2010 - Present` **Eagle Scout with double Silver Palms** *Boy Scouts of America*  
 > Earning two Silver Palms represents continued leadership, community service, and merit beyond the Eagle rank. Fewer than 1% of Scouts achieve this distinction.
 
-
 ## Committees
 
 `2025` **Quality Committee** *Mayo Clinic*, Rochester, MN  
 > Improving care plan and nursing shift note completion by implementing fast, accurate, patient specific, and efficient note templates.
-
 
 ## Publications
 
@@ -79,7 +74,6 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
-
 
 ## Occupation
 
@@ -158,7 +152,6 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 | In His Name Food Drive for greater Rochester, MN area | 6 |
 | HopeFest Tucson: Medical Escort | 5 |
 | Feed My Starving Children | 2.5 |
-
 
 <!-- ### Footer
 
