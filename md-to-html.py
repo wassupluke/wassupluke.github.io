@@ -4,18 +4,29 @@ import sys
 import markdown
 
 
-def check_args() -> list[str]:
+def get_input() -> list[str]:
     if len(sys.argv) < 2:
-        filenames = [input("Markdown file(s) to convert? ")]
-        filenames = re.split(";|; |,|, | ", str(filenames)[2:-2])
-        if not all(arg.endswith(".md") is True for arg in filenames):
-            sys.exit("You gave a file that didn't end in .md, try again")
-    elif len(sys.argv) >= 2 and all(
-        arg.endswith(".md") is True for arg in sys.argv[1:]
-    ):
-        filenames = sys.argv[1:]
+        user_input = [input("Markdown file(s) to convert? ")]
     else:
-        sys.exit("That probably wasn't a Markdown file, try again")
+        user_input = sys.argv[1:]
+
+    user_input = [arg.strip(";|; |,|, | ") for arg in user_input]
+
+    return user_input
+
+
+def check_args(filenames: list[str]) -> list[str]:
+    # early return if user passed all .md files
+    if all(file.endswith(".md") is True for file in filenames):
+        return filenames
+
+    # allow passing extensionless filenames
+    for index, file in enumerate(filenames):
+        if file.find(".") == -1:
+            filenames[index] = file + ".md"
+        elif file[:-1].endswith(".md") is False:
+            sys.exit(f"[{file}] doesn't end in .md, try again")
+
     return filenames
 
 
@@ -34,7 +45,7 @@ def main(filename: str) -> None:
         if line[:4] == "<h1>" and line[-5:] == "</h1>":
             lines[i] = f"<header>\n{line}\n</header>"
 
-    content = "".join(map(str, lines))
+    content = "\n".join(map(str, lines))
 
     style = "default.css" if filename != "cv.md" else "cv.css"
     navbar = load_template('templates/navbar.html') if filename != "cv.md" else ""
@@ -69,7 +80,8 @@ def main(filename: str) -> None:
 
 
 if __name__ == "__main__":
-    filenames = check_args()
+    user_args = get_input()
+    filenames = check_args(user_args)
 
     for filename in filenames:
         main(filename)
