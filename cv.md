@@ -60,10 +60,40 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 `2007` **First Degree Black Belt** *American TaeKwonDo Association*
 > Demonstrates years of disciplined training, mastery of technique, and mental focus. Reflects a strong commitment to perseverance, goal setting, and personal growth—qualities that directly translate to excellence in high-stakes clinical environments.
 
+## Leadership
+
+`2013 - 2015` **Bible Study Leader** *University of Arizona Campus Navigators*
+
+> Gained recruiting and follow-up skills. Prepared study ahead of time, grew in leadership ability through weekly leaders meetings, and lead the men through study each week. Experienced mentorship as both mentor and mentee.
+
+`2010` **Senior Patrol Leader** *Troop 102, Boy Scouts of America*
+
+> Responsible for running a fully functional troop. Coordinated all troop functions: communicated via email and phone with the scouts, parents, and event sponsors; planned and carried out weekly troop meetings and monthly Patrol Leaders Council meetings, and organized all aspects of camping trips. Created a website to aid in up-to-date communication.
+
+`2010` **Eagle Scout Service Project**
+
+> Petitioned friends and local churches for bikes of any condition to be donated. Cleaned and tuned-up the bikes. Requested local bike shops to match each bike donation with a helmet for the rider. Bikes were donated to the InterFaith Hospitality Network of Greater Rochester Minnesota which benefited from the project in that the bikes went to families in the network’s community follow-along program, families who now live in apartments but often don’t have cars of their own. The bikes provided families a way of getting to work and their children a bike to call their own. Demonstrated leadership of others throughout the planned project work days and demonstrated checking, cleaning, fixing/replacing, and waxing the bikes. Roughly 60 hours total.
+
 ## Committees
 
 `2025` **Quality Committee** *Mayo Clinic*, Rochester, MN  
+
 > Improving care plan and nursing shift note completion by implementing fast, accurate, patient specific, and efficient note templates.
+## Research & Technical Experience
+
+`2015 - 2017` **3D Anatomic Modeling Laboratories** *Mayo Clinic, Rochester, MN*
+
+**Drs. Matsumoto and Morris**
+
+> Utilized computed tomography image datasets to generate a stereolithography file and use photopolymer materials to create 3D models for pre-operational use by the surgeons. The models are extremely beneficial for planning the operation procedure as well as for helping the patient better understand the surgery. Pioneered a project prototyping for thoracic facet joint injection and epidurals, created the Anatomic Modeling Unit’s first dental educational model from a Panorex scan for residency students, and designed an educational foot model. Roughly 15 hours a week.
+
+`2013` **Human Integrative Physiology Laboratory** *Mayo Clinic, Rochester, MN*
+
+Summer Undergraduate Research Fellowship (SURF Program)
+
+**Dr. Joyner, Principal Investigator**
+
+> Studied the effect of inhibiting the carotid bodies in humans with dopamine on blood glucose regulation during prolonged exercise in Dr. Michael Joyner’s Human Integrative Physiology Laboratory. Gained technical skills by assisting with experimental setup for the project as well as setup for other studies. Read protocols and other information for the study and some of the others as well. Assisted with carrying out the studies, including manually recording specific study variables, monitoring and working with study equipment, and interacting with the subject and the others helping to run the study. Learned how to transfer data from the recording software to Excel for organization and analysis of the data. Learned how to generate statistical comparisons using two way repeated-measures ANOVA and paired t-tests. Attended weekly (or more frequently, depending on the week) seminars and grand rounds to sit in and learn about the growing research fields. Roughly 50 hours a week.
 
 ## Publications
 
@@ -86,41 +116,38 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-**ICU Nursing Clinical Adjunct Instructor**  
+`Spring 2024` **ICU Nursing Clinical Adjunct Instructor**  
+
 *St. Ambrose University – Nano Nagle Online School of Nursing*  
-*Spring 2024*  
+
 - Provided ICU clinical instruction for LPN-to-RN students.  
 - Provided mentorship in critical thinking, evidence-based practice, and clinical documentation.  
 - Delivered interactive content on ventilator management, sedation protocols, arterial blood gas interpretation, and ICU workflows.  
 
 ---
 
-**SICU Registered Nurse (Temporary Permanent Staff)**  
-*Monument Health Rapid City Regional Hospital, SD*  
-*March 2024 – January 2025*  
+`March 2024 – January 2025` **SICU Registered Nurse (Temporary Permanent Staff)** *Monument Health Rapid City Regional Hospital, SD*  
+
 - Cared for post-surgical patients in a high-acuity cardiovascular surgical ICU.  
 - Delivered comprehensive care for primarily cardiovascular, neurosurgical, and trauma cases.  
 - Precepted new nurses and travelers; ensured safe and timely onboarding.  
 
 ---
 
-**SICU Registered Nurse (Travel)**  
-*Monument Health Rapid City Regional Hospital, SD*  
-*July 2023 – February 2024*  
+`July 2023 – February 2024` **SICU Registered Nurse (Travel)** *Monument Health Rapid City Regional Hospital, SD*  
+
 - See above.  
 
 ---
 
-**MICU Registered Nurse (Travel)**  
-*Good Samaritan Hospital, Puyallup, WA*  
-*March 2023 – July 2023*  
+`March 2023 – July 2023` **MICU Registered Nurse (Travel)** *Good Samaritan Hospital, Puyallup, WA*
+
 - Provided care for critically ill medical ICU patients including respiratory failure, sepsis, and multi-organ dysfunction.  
 
 ---
 
-**MICU Registered Nurse (Travel)**  
-*Northern Light Main Coast Memorial Hospital, Ellsworth, ME*  
-*March 2022 – June 2023*  
+`March 2022 – June 2023` **MICU Registered Nurse (Travel)** *Northern Light Main Coast Memorial Hospital, Ellsworth, ME*
+
 - Delivered high-quality care in a community hospital ICU setting.  
 - Managed central lines, arterial lines, and advanced airway support.  
 - Interpreted ECG strips on all ICU and telemetry patients by hand twice a shift.
@@ -130,27 +157,27 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ---
 
-**Multi-Specialty SICU Registered Nurse (PRN)**  
-*Mayo Clinic, St Marys Campus, Rochester, MN*  
-*March 2022 – Present*  
-- Float to all ICUs including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.  
-- Assist with managing patient care during conscious and moderate sedation.   
+`March 2022 – Present` **Multi-Specialty SICU Registered Nurse (PRN)** *Mayo Clinic, St Marys Campus, Rochester, MN*
+
+- Float to all ICUs including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
+- Assist with managing patient care during conscious and moderate sedation. 
 
 ---
 
-**Multi-Specialty SICU Registered Nurse (Staff)**  
-*Mayo Clinic, St Marys Campus, Rochester, MN*  
-*July 2019 – March 2022*  
-- Delivered critical care to post-op surgical patients in a level-1 trauma center.  
-- Served as preceptor and charge nurse.  
-- Proficient in Epic EMR and ICU documentation standards.  
+`July 2019 – March 2022` **Multi-Specialty SICU Registered Nurse (Staff)** *Mayo Clinic, St Marys Campus, Rochester, MN*
+
+- Delivered critical care to post-op surgical patients in a level-1 trauma center.
+- Served as preceptor and charge nurse.
+- Proficient in Epic EMR and ICU documentation standards.
 
 ---
 
 ## Professional Development
-`2024` COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association of Critical-Care Nurses*
+
+`2024` **COVID-19 Pulmonary and Ventilator Care Micro-Credential** *American Association of Critical-Care Nurses*
 
 ## Volunteering
+
 | Service | Hours |
 | :-------| ----: |
 | Senior Citizen Service | 47 |
