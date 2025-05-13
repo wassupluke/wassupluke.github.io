@@ -4,7 +4,7 @@
 
 ## About
 
-Critical care nurse with nearly six years of ICU experience in high-acuity environments across the United States. Demonstrates a strong commitment to excellence in patient care, clinical education, and professional advancement through collaborative innovation. Actively pursuing nurse anesthesia to deliver safe, evidence-based, and compassionate care.
+Critical care nurse with six years of ICU experience in high-acuity environments across the U.S. Demonstrates a strong commitment to excellence in patient care, clinical education, and professional advancement through collaborative innovation. Actively pursuing nurse anesthesia to deliver safe, evidence-based, and compassionate care.
 
 ## Specialized in
 
