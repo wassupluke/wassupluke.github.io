@@ -6,7 +6,7 @@
 
 [`Luke the photographer`](https://instagram.com/lukewassphotography)
 
-[`Luke the programmer`](https://github.com/wassupluke/)
+[`Luke the developter`](https://github.com/wassupluke/)
 
 `Luke the woodworker`
 
