@@ -12,7 +12,7 @@ Care of critically ill patients from a wide range of surgical and medical specia
 
 ## Research interests
 
-Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, and leveraging AI in healthcare.
+Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, workplace optimization, and leveraging AI in healthcare.
 
 ## Education
 
