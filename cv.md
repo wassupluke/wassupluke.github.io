@@ -51,6 +51,9 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 `2010 - Present` **Eagle Scout with double Silver Palms** *Boy Scouts of America*  
 > Earning two Silver Palms represents continued leadership, community service, and merit beyond the Eagle rank. Fewer than 1% of Scouts achieve this distinction.
 
+`2007` **First Degree Black Belt** *American TaeKwonDo Association*
+> Demonstrates years of disciplined training, mastery of technique, and mental focus. Reflects a strong commitment to perseverance, goal setting, and personal growth—qualities that directly translate to excellence in high-stakes clinical environments.
+
 ## Committees
 
 `2025` **Quality Committee** *Mayo Clinic*, Rochester, MN  
