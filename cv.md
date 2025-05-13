@@ -78,7 +78,7 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
 `2025` **Quality Committee** *Mayo Clinic*, Rochester, MN  
 
-> Improving care plan and nursing shift note completion by implementing fast, accurate, patient specific, and efficient note templates.
+> Improving care plan and nursing shift note completion by implementing fast, accurate, patient-specific, and efficient note templates.
 ## Research & Technical Experience
 
 `2015 - 2017` **3D Anatomic Modeling Laboratories** *Mayo Clinic, Rochester, MN*
