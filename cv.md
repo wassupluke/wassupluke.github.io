@@ -42,8 +42,14 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 `2014` **Mayo Clinic Dependent Scholarship** *Rochester, MN*  
 > Merit-based academic scholarship awarded to top 10–25% of eligible applicants based on standardized test performance and academic achievement.
 
+`2013` **Mayo Clinic Summer Undergraduate Research Fellowship (SURF)** *Rochester, MN*
+> Competitive research fellowship awarded to high-achieving undergraduate students nationwide. Provided immersive experience in biomedical research under the mentorship of Mayo Clinic investigators. Selected based on academic excellence, research potential, and commitment to scientific inquiry.
+
 `2012` **Honors College** *University of Arizona*  
 > The university’s academically rigorous Honors College based on academic performance and potential.
+
+`2012` **University of Arizona Excellence Scholarship** *Tucson, AZ*  
+> A merit-based academic scholarship awarded to top-performing incoming students based on standardized test scores, GPA, and academic achievement. Recognizes outstanding potential for collegiate success and leadership.
 
 `2011` **Phi Theta Kappa International Honor Society** *Rochester Community and Technical College*  
 > International honor society recognizing academic excellence among two-year college students; invitation based on GPA and leadership potential.
