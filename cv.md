@@ -28,7 +28,7 @@ Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced cl
 ## Certifications
 ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
-## Awards
+## Honors and Awards
 
 `2023` **Daisy Award** *Rochester, MN*  
 > A special honor given to extraordinary nurses for compassionate contributions going above and beyond expectations in science and sensitivity. Nominated for delivering exceptional, compassionate care to patients and demonstrating clinical excellence in patient-centered care.
