@@ -163,7 +163,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 `March 2022 – Present` **Multi-Specialty SICU Registered Nurse (PRN)** *Mayo Clinic, St Marys Campus, Rochester, MN*
 
-- Float to all ICUs including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
+- Float to all ICUs, including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
 - Assist with managing patient care during conscious and moderate sedation. 
 
 ---
