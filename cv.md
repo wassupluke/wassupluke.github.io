@@ -138,7 +138,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ---
 
-`July 2023 – February 2024` **SICU Registered Nurse (Travel)** *Monument Health Rapid City Regional Hospital, SD*  
+`July 2023 – February 2024` **SICU Registered Nurse (Travel)** *Monument Health Rapid City Regional Hospital, Rapid City, SD*
 
 - See above.  
 
@@ -146,7 +146,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 `March 2023 – July 2023` **MICU Registered Nurse (Travel)** *Good Samaritan Hospital, Puyallup, WA*
 
-- Provided care for critically ill medical ICU patients including respiratory failure, sepsis, and multi-organ dysfunction.  
+- Provided care for critically ill medical ICU patients, including respiratory failure, sepsis, and multi-organ dysfunction.  
 
 ---
 
