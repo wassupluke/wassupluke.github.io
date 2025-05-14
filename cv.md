@@ -74,7 +74,11 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
 > Petitioned friends and local churches for bikes of any condition to be donated. Cleaned and tuned-up the bikes. Requested local bike shops to match each bike donation with a helmet for the rider. Bikes were donated to the InterFaith Hospitality Network of Greater Rochester Minnesota which benefited from the project in that the bikes went to families in the network’s community follow-along program, families who now live in apartments but often don’t have cars of their own. The bikes provided families a way of getting to work and their children a bike to call their own. Demonstrated leadership of others throughout the planned project work days and demonstrated checking, cleaning, fixing/replacing, and waxing the bikes. Roughly 60 hours total.
 
-## Committees
+## Institutional and Editorial Roles
+
+`2025` **Editor in Chief** *CCRN Question Bank, StatPearls*
+
+> Ensure clinical accuracy, relevance, and alignment of CCRN questions with current exam standards. Review and revise question content for clarity and educational value. Write new high-yield items to address gaps and maintain comprehensive coverage of core critical care topics.
 
 `2025` **Repeatable Room Design workgroup** *Mayo Clinic, Rochester, MN*
 
