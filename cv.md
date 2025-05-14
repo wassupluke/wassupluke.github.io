@@ -76,7 +76,11 @@ ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
 
 ## Committees
 
-`2025` **Quality Committee** *Mayo Clinic*, Rochester, MN  
+`2025` **Repeatable Room Design workgroup** *Mayo Clinic, Rochester, MN*
+
+> Bringing bedside nursing insights and cutting-edge innovative ideas for building the future of Mayo Clinic's patient experience, specifically targeting inpatient room design.
+
+`2025` **Quality Committee** *Mayo Clinic, Rochester, MN*
 
 > Improving care plan and nursing shift note completion by implementing fast, accurate, patient-specific, and efficient note templates.
 ## Research & Technical Experience
