@@ -150,7 +150,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ---
 
-`March 2022 – June 2023` **MICU Registered Nurse (Travel)** *Northern Light Main Coast Memorial Hospital, Ellsworth, ME*
+`March 2022 – June 2022` **MICU Registered Nurse (Travel)** *Northern Light Maine Coast Memorial Hospital, Ellsworth, ME*
 
 - Delivered high-quality care in a community hospital ICU setting.  
 - Managed central lines, arterial lines, and advanced airway support.  
