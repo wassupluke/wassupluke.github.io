@@ -32,6 +32,14 @@ From the website, "The Comparative Toxicogenomics Database (CTD) is a publicly a
 
 Hospital quality and safety scores. How does **your** hospital rank?
 
+### [NIH DailyMed](https://dailymed.nlm.nih.gov/dailymed/)
+
+Package inserts and prescribing information.
+
+### [Mark Cuban's CostPlus](https://www.costplusdrugs.com/)
+
+Find and compare the most affordable drug prices.
+
 ## Get Certified / Education / CEUs
 
 ### [ABIOMED Academy](https://abiomedloop.csod.com/LMS/catalog/Welcome.aspx)
