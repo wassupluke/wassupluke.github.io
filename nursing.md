@@ -4,6 +4,10 @@
 
 ## Sites I use professionally
 
+### [NIH DailyMed](https://dailymed.nlm.nih.gov/dailymed/)
+
+Package inserts and prescribing information.
+
 ### [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 
 From the website, "PubChem is the world's largest collection of freely accessible chemical information. Search chemicals by name, molecular formula, structure, and other identifiers. Find chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations and more."
@@ -11,10 +15,6 @@ From the website, "PubChem is the world's largest collection of freely accessibl
 ### [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 From the website, "PubMed® comprises more than 37 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites."
-
-### [NIH DailyMed](https://dailymed.nlm.nih.gov/dailymed/)
-
-Package inserts and prescribing information.
 
 ### [UpToDate](https://www.uptodate.com/contents/search)
 
