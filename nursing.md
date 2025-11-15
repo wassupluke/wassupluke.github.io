@@ -12,6 +12,10 @@ From the website, "PubChem is the world's largest collection of freely accessibl
 
 From the website, "PubMed® comprises more than 37 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites."
 
+### [NIH DailyMed](https://dailymed.nlm.nih.gov/dailymed/)
+
+Package inserts and prescribing information.
+
 ### [UpToDate](https://www.uptodate.com/contents/search)
 
 From the website, "The trusted evidence-based resource to answer clinical questions"
@@ -31,10 +35,6 @@ From the website, "The Comparative Toxicogenomics Database (CTD) is a publicly a
 ### [LeapFrog Scores](https://www.hospitalsafetygrade.org/)
 
 Hospital quality and safety scores. How does **your** hospital rank?
-
-### [NIH DailyMed](https://dailymed.nlm.nih.gov/dailymed/)
-
-Package inserts and prescribing information.
 
 ### [Mark Cuban's CostPlus](https://www.costplusdrugs.com/)
 
