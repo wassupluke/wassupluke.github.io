@@ -132,9 +132,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ---
 
-`Spring 2024` **ICU Nursing Clinical Adjunct Instructor**  
-
-*St. Ambrose University – Nano Nagle Online School of Nursing*  
+`Spring 2024` **ICU Nursing Clinical Adjunct Instructor** *St. Ambrose University – Nano Nagle Online School of Nursing*  
 
 - Provided ICU clinical instruction for LPN-to-RN students.  
 - Provided mentorship in critical thinking, evidence-based practice, and clinical documentation.  
