@@ -124,6 +124,14 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
+`January 2026 - Present` **Clinical Research Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
+
+- Supported inpatient and outpatient research protocols across two campuses, including complex assessments, blood draws, ECGs, and monitoring for high-intensity trials.
+- Administered moderate sedation for specialized procedures such as endoscopies and colonoscopies.
+- Collaborated with multidisciplinary teams to activate new studies, maintain compliance with nursing flowsheets, and ensure seamless patient care in a dynamic research environment.
+
+---
+
 `Spring 2024` **ICU Nursing Clinical Adjunct Instructor**  
 
 *St. Ambrose University – Nano Nagle Online School of Nursing*  
