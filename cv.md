@@ -124,7 +124,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`January 2026 - Present` **Clinical Research Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
+`January 2026 - Present` **Clinical Research and Trials Unit Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
 
 - Supported inpatient and outpatient research protocols across two campuses, including complex assessments, blood draws, ECGs, and monitoring for high-intensity trials.
 - Administered moderate sedation for specialized procedures such as endoscopies and colonoscopies.
