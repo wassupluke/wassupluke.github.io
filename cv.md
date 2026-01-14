@@ -4,7 +4,7 @@
 
 ## About
 
-Critical care nurse with six years of ICU experience in high-acuity environments across the U.S. Demonstrates a strong commitment to excellence in patient care, clinical education, and professional advancement through collaborative innovation. Actively pursuing nurse anesthesia to deliver safe, evidence-based, and compassionate care.
+Critical care nurse with seven years of ICU experience in high-acuity environments across the United States. Demonstrates a strong commitment to excellence in patient care, clinical education, quality control, and professional advancement through collaborative innovation. Actively pursuing a future in leadership and technology to deliver safe, effective, efficient, evidence-based, and compassionate care.
 
 ## Specialized in
 
@@ -12,7 +12,7 @@ Care of critically ill patients from a wide range of surgical and medical specia
 
 ## Research interests
 
-Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, workplace optimization, and leveraging AI in healthcare.
+Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, workplace optimization, and leveraging AI and technology in healthcare.
 
 ## Education
 
@@ -116,11 +116,6 @@ Summer Undergraduate Research Fellowship (SURF Program)
 <p style="padding-left: 2em; text-indent: -2em;">Wass, L. T., Johnson, B. D., Taylor, J. L., Peinado, A. B., Joyner, M. J., Department of Anesthesiology, Mayo Clinic, Rochester, MN, Department of Physiology, Honors College, University of Arizona, Tucson, AZ, & Department of Health and Human Performance, Technical University of Madrid, Madrid, Spain (2013). <i>Dopamine Mediated Carotid Body Influence On Blood Glucose During Prolonged Exercise In Humans</i> [Poster presentation]. Summer Undergraduate Research Fellowship, Mayo Clinic, Rochester, MN, United States.</p>
 
 <!-- ![Dopamine Mediated Carotid Body Influence On Blood Glucose During Prolonged Exercise In Humans](images/dopamine.jpg "Dopamine Mediated Carotid Body Influence On Blood Glucose During Prolonged Exercise In Humans") -->
-
-<!-- ### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 ## Occupation
 
