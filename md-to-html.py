@@ -1,6 +1,8 @@
 import re
 import sys
 
+from datetime import datetime
+
 import markdown
 
 
@@ -65,7 +67,7 @@ def main(filename: str) -> None:
       {content}
     </div>
     <footer>
-      <p>&copy; 2025 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
+      <p>&copy; {datetime.now().year} Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
     </footer>
   </body>
   {javascript}
