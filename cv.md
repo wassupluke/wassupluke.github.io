@@ -197,7 +197,3 @@ Summer Undergraduate Research Fellowship (SURF Program)
 | In His Name Food Drive for greater Rochester, MN area | 6 |
 | HopeFest Tucson: Medical Escort | 5 |
 | Feed My Starving Children | 2.5 |
-
-<!-- ### Footer
-
-Last updated: January 2025 -->
