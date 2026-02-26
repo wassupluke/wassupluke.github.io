@@ -4,7 +4,7 @@
 
 ## About
 
-Critical care nurse with seven years of ICU experience in high-acuity environments across the United States. Demonstrates a strong commitment to excellence in patient care, clinical education, quality control, and professional advancement through collaborative innovation. Actively pursuing a future in leadership and technology to deliver safe, effective, efficient, evidence-based, and compassionate care.
+Critical care nurse with seven years of ICU experience in high-acuity environments across the United States. Demonstrates a strong commitment to excellence in patient care, clinical education, quality control, workflow efficiency, and professional advancement through collaborative innovation. Actively pursuing advanced practice nursing with a focus on delivering safe, effective, efficient, evidence-based, and compassionate care at the highest level of clinical practice.
 
 ## Specialized in
 
@@ -26,7 +26,7 @@ Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced cl
 **Rochester Community and Technical College**
 
 ## Certifications
-ACLS, BLS, CCRN, NIHSS, TNCC, CMC (examination in July)
+ACLS, BLS, CCRN, NIHSS, TNCC
 
 ## Honors and Awards
 
@@ -121,7 +121,7 @@ Summer Undergraduate Research Fellowship (SURF Program)
 
 `January 2026 - Present` **Clinical Research and Trials Unit Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
 
-- Supported inpatient and outpatient research protocols across two campuses, including complex assessments, blood draws, ECGs, and monitoring for high-intensity trials.
+  - Supported inpatient and outpatient research protocols across two campuses, including complex assessments, venipuncture, IV starts, retrograde IV starts, 10-lead ECGs, and monitoring for high-intensity trials.
 - Administered moderate sedation for specialized procedures such as endoscopies and colonoscopies.
 - Collaborated with multidisciplinary teams to activate new studies, maintain compliance with nursing flowsheets, and ensure seamless patient care in a dynamic research environment.
 
