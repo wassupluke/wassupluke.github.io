@@ -60,6 +60,7 @@ def main(filename: str) -> None:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{filename.strip(".md").upper()}</title>
     <link rel="stylesheet" href="styles/{style}">
+    <link rel="icon" href="static/favicon.svg" type="image/svg+xml">
   </head>
   <body>
     {navbar}
