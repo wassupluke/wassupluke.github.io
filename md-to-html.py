@@ -50,18 +50,15 @@ def main(filename: str) -> None:
     content = "\n".join(map(str, lines))
 
     style = "default.css" if filename != "cv.md" else "cv.css"
+    title = filename.strip(".md").upper()
+    head = load_template('templates/head.html').replace('{{title}}', title).replace('{{style}}', style)
     navbar = load_template('templates/navbar.html') if filename != "cv.md" else ""
     javascript = f'<script src="static/js/nav.js"></script>' if filename != "cv.md" else ""
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{filename.strip(".md").upper()}</title>
-    <link rel="stylesheet" href="styles/{style}">
-    <link rel="icon" href="static/favicon.svg" type="image/svg+xml">
-  </head>
+{head}  </head>
   <body>
     {navbar}
     <div class="container">
