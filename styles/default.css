@@ -60,12 +60,14 @@ nav {
     text-align: center;
     text-decoration: none;
     font-size: 17px;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    border-bottom: 2px solid transparent;
+    transition: background-color 0.3s ease, color 0.3s ease, border-bottom-color 0.3s ease;
 }
 
 .nav-links a:hover {
     background-color: var(--light_gray);
-    color: var(--white); /* Ensures text remains white */
+    color: var(--white);
+    border-bottom-color: var(--green);
 }
 
 .nav-links a:visited {
