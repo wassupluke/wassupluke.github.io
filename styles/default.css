@@ -61,11 +61,13 @@ nav {
     text-decoration: none;
     font-size: 17px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    border-bottom: 2px solid transparent;
 }
 
 .nav-links a:hover {
     background-color: var(--light_gray);
-    color: var(--white); /* Ensures text remains white */
+    color: var(--white);
+    border-bottom-color: var(--green);
 }
 
 .nav-links a:visited {
@@ -114,7 +116,8 @@ nav {
 .container {
     margin: 6rem auto 1rem; /* Centers content with top and bottom spacing */
     max-width: 66rem; /* Restricts content width */
-    padding: 0.25rem; /* Adds padding inside the container */
+    padding: 1.5rem; /* Adds padding inside the container */
+    animation: fadeIn 0.4s ease-out;
     line-height: 1.45;
 }
 
@@ -193,6 +196,7 @@ pre {
 a,
 a:visited {
   color: var(--light_green);
+  transition: color 0.2s ease;
 }
 
 a:hover,
@@ -238,6 +242,8 @@ h1 {
 h2 {
   font-size: 2.827rem;
   background-color: var(--blue);
+  padding: 0.25rem 0.75rem;
+  border-radius: 3px;
 }
 
 h3 {
@@ -298,44 +304,7 @@ textarea {
 blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
-}
-
-/* Role cards on home page */
-.role-cards {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin: 1.5rem 0;
-}
-
-.role-card {
-    display: block;
-    padding: 1rem 1.5rem;
-    background-color: var(--medium_gray);
-    border: 1px solid var(--light_gray);
-    border-left: 3px solid var(--green);
-    border-radius: 4px;
-    text-decoration: none;
-    color: var(--light_green);
-    transition: border-color 0.3s ease, background-color 0.3s ease;
-}
-
-.role-card:hover {
-    background-color: var(--light_gray);
-    border-left-color: var(--light_green);
-    color: var(--white);
-}
-
-.role-card--inactive {
-    color: var(--lighter_gray);
-    border-left-color: var(--lighter_gray);
-    cursor: default;
-}
-
-.role-card--inactive:hover {
-    background-color: var(--medium_gray);
-    border-left-color: var(--lighter_gray);
-    color: var(--lighter_gray);
+  margin: 1.5rem 0;
 }
 
 /* Responsive video embed */
@@ -345,7 +314,7 @@ blockquote {
     height: 0;
     overflow: hidden;
     max-width: 640px;
-    margin: 1rem 0;
+    margin: 1rem auto;
 }
 
 .video-embed iframe {
@@ -359,4 +328,11 @@ blockquote {
 footer {
     text-align: center;
     color: var(--light_gray);
+    padding: 1rem;
+    border-top: 1px solid var(--light_gray);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
 }

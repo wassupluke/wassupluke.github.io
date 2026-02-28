@@ -1,12 +1,6 @@
 # Luke's Personal Website
 
-<div class="role-cards">
-<a href="athlete.html" class="role-card">Luke the athlete</a>
-<a href="nursing.html" class="role-card">Luke the nurse</a>
-<a href="https://instagram.com/lukewassphotography" class="role-card">Luke the photographer</a>
-<a href="https://github.com/wassupluke/" class="role-card">Luke the developer</a>
-<span class="role-card role-card--inactive">Luke the woodworker</span>
-</div>
+I'm a [nurse](nursing.html), [endurance athlete](athlete.html), [photographer](https://instagram.com/lukewassphotography), and [developer](https://github.com/wassupluke/) based in the data-and-details end of everything I do. When I'm not at the bedside, you'll find me racing bikes on [Zwift](https://www.zwift.com/why-zwift), coaching athletes through [Intervals.icu](https://intervals.icu/athlete/i75079/), building mid-century modern furniture, or building things like this site.
 
 If I were to have you watch one thing right now...
 <div class="video-embed">
