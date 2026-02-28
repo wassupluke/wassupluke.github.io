@@ -1,3 +1,10 @@
+// Highlight current page in nav
+document.querySelectorAll('.nav-links a').forEach(link => {
+    if (link.hostname === location.hostname && link.pathname === location.pathname) {
+        link.classList.add('active');
+    }
+});
+
 const navLinks = document.querySelector('.nav-links');
 const hamburger = document.querySelector('.hamburger');
 

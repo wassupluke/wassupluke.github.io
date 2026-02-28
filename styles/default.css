@@ -75,9 +75,7 @@ nav {
 }
 
 .nav-links a.active {
-  background: linear-gradient(to bottom, #2ecc40 0%, #28a745 100%);
-  color: var(--dark_gray);
-  font-weight: bold;
+  border-bottom: 3px solid var(--green);
 }
 
 .hamburger {
