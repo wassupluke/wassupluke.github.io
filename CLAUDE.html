@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLAUDE</title>
+    <link rel="stylesheet" href="styles/default.css">
+    <link rel="icon" href="static/favicon.svg" type="image/svg+xml">
+  </head>
+  <body>
+    <nav>
+  <button class="hamburger" aria-label="Toggle navigation">☰</button>
+  <div class="nav-links">
+    <a href="index.html" class="active">Home</a>
+    <a href="nursing.html">Nursing</a>
+    <a href="https://instagram.com/lukewassphotography">Gallery</a>
+    <a href="athlete.html">Athletics</a>
+    <a href="meals.html">Meals</a>
+    <a href="https://github.com/wassupluke/">GitHub</a>
+    <a href="cv.html">CV</a>
+  </div>
+</nav>
+
+    <div class="container">
+      <header>
+<h1>CLAUDE.md</h1>
+</header>
+<p>This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.</p>
+<h2>Project Overview</h2>
+<p>Personal portfolio/website hosted on GitHub Pages. Content is authored in Markdown and auto-converted to HTML.</p>
+<h2>Build System</h2>
+<p><strong>Local conversion:</strong> <code>python md-to-html.py &lt;file1.md&gt; [file2.md ...]</code>
+- Requires: <code>pip install markdown</code>
+- Converts <code>.md</code> files to <code>.html</code> with template wrapping</p>
+<p><strong>CI:</strong> GitHub Actions workflow (<code>.github/workflows/convert-markdown.yml</code>) runs <code>md-to-html.py</code> on any pushed <code>.md</code> changes and auto-commits the generated HTML. Can also be triggered manually via <code>workflow_dispatch</code>.</p>
+<h2>Architecture</h2>
+<ul>
+<li><strong>Content pages:</strong> Root-level <code>.md</code> files (index, cv, meals, nursing, athlete) are the source of truth. Never edit <code>.html</code> files directly — they are generated.</li>
+<li><strong>Converter (<code>md-to-html.py</code>):</strong> Reads markdown, converts with <code>markdown.extensions.tables</code>, wraps in an HTML template with navbar, styles, and footer.</li>
+<li><strong>CV exception:</strong> <code>cv.md</code> gets <code>cv.css</code> and no navbar/JS injection. All other pages get <code>default.css</code>, the navbar template, and <code>nav.js</code>.</li>
+<li><strong>Templates:</strong> <code>templates/navbar.html</code> — shared navigation bar injected into non-CV pages.</li>
+<li><strong>Styles:</strong> <code>styles/default.css</code>, <code>styles/cv.css</code>.</li>
+<li><strong>JS:</strong> <code>static/js/nav.js</code> — responsive hamburger nav toggle.</li>
+</ul>
+<h2>Key Conventions</h2>
+<ul>
+<li>To add a new page: create <code>newpage.md</code>, add a link in <code>templates/navbar.html</code>, run the converter.</li>
+<li>Page titles are derived from the filename (uppercased, <code>.md</code> stripped).</li>
+</ul>
+    </div>
+    <footer>
+      <p>&copy; 2026 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
+    </footer>
+  </body>
+  <script src="static/js/nav.js"></script>
+</html>
+    
