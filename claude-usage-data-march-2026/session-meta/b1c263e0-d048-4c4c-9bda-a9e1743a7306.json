@@ -1,0 +1,63 @@
+{
+  "session_id": "b1c263e0-d048-4c4c-9bda-a9e1743a7306",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T16:05:16.742Z",
+  "duration_minutes": 3,
+  "user_message_count": 13,
+  "assistant_message_count": 8,
+  "tool_counts": {
+    "Agent": 1,
+    "Read": 2,
+    "Write": 1
+  },
+  "languages": {
+    "Python": 2,
+    "Markdown": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 12,
+  "output_tokens": 1110,
+  "first_prompt": "The time recently changed for daylight savings in Spring. I'm now seeing a lot of `[scheduler] error: can't subtract offset-naive and offset-aware datetimes` in the docker logs.",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 33,
+  "lines_removed": 0,
+  "files_modified": 1,
+  "message_hours": [
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T16:05:23.918Z",
+    "2026-03-15T16:05:23.916Z",
+    "2026-03-15T16:05:23.916Z",
+    "2026-03-15T16:05:32.277Z",
+    "2026-03-15T16:05:32.274Z",
+    "2026-03-15T16:05:32.274Z",
+    "2026-03-15T16:05:41.668Z",
+    "2026-03-15T16:05:41.668Z",
+    "2026-03-15T16:05:41.668Z",
+    "2026-03-15T16:05:54.275Z",
+    "2026-03-15T16:05:54.272Z",
+    "2026-03-15T16:05:54.272Z",
+    "2026-03-15T16:07:15.995Z"
+  ]
+}

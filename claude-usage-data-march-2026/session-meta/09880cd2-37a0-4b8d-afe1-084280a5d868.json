@@ -1,0 +1,39 @@
+{
+  "session_id": "09880cd2-37a0-4b8d-afe1-084280a5d868",
+  "project_path": "/home/wassu/code/muddymoose.github.io",
+  "start_time": "2026-03-14T02:00:35.299Z",
+  "duration_minutes": 2,
+  "user_message_count": 1,
+  "assistant_message_count": 14,
+  "tool_counts": {
+    "Read": 3,
+    "Edit": 7
+  },
+  "languages": {
+    "HTML": 7,
+    "CSS": 2,
+    "JavaScript": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 22,
+  "output_tokens": 7412,
+  "first_prompt": "Implement the following plan:  # GSAP Animations for Basecamp Bakery  ## Context The site is a bakery order form with warm earthy styling but no motion — it feels static. Adding GSAP animations will m…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 8,
+  "lines_removed": 6,
+  "files_modified": 2,
+  "message_hours": [
+    21
+  ],
+  "user_message_timestamps": [
+    "2026-03-14T02:00:35.299Z"
+  ]
+}

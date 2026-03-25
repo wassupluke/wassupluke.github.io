@@ -1,0 +1,43 @@
+{
+  "session_id": "2009f77d-4afc-43df-9eb4-a1aac6126101",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T19:56:46.820Z",
+  "duration_minutes": 1,
+  "user_message_count": 2,
+  "assistant_message_count": 13,
+  "tool_counts": {
+    "Read": 4,
+    "Edit": 4,
+    "Bash": 1
+  },
+  "languages": {
+    "Python": 2,
+    "YAML": 2
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 27,
+  "output_tokens": 1116,
+  "first_prompt": "Implement the following plan:  # Fix: watches.json IsADirectoryError  ## Context  Docker's bind-mount behavior: when the host-side source path doesn't exist, Docker creates it as a **directory**. Sinc…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    11.838
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 6,
+  "lines_removed": 4,
+  "files_modified": 4,
+  "message_hours": [
+    14,
+    14
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T19:56:46.820Z",
+    "2026-03-15T19:57:15.212Z"
+  ]
+}

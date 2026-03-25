@@ -1,0 +1,83 @@
+{
+  "session_id": "3c03bf63-33f6-4924-9038-301583dc7167",
+  "project_path": "/home/wassu/code/ai-digest",
+  "start_time": "2026-03-02T04:12:14.438Z",
+  "duration_minutes": 35,
+  "user_message_count": 13,
+  "assistant_message_count": 41,
+  "tool_counts": {
+    "Agent": 1,
+    "Write": 1,
+    "Read": 5,
+    "Glob": 1,
+    "Bash": 10,
+    "Edit": 1,
+    "EnterPlanMode": 1
+  },
+  "languages": {
+    "Markdown": 1,
+    "YAML": 2,
+    "Python": 4
+  },
+  "git_commits": 3,
+  "git_pushes": 3,
+  "input_tokens": 77,
+  "output_tokens": 4740,
+  "first_prompt": "Will this automatically run in my github repo or do I need to manually run it on my server and push the changes for it to work? I've seen the workflow run online but I haven't seen any pages get added…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    93.898,
+    93.897,
+    93.897,
+    648.935,
+    27.065,
+    16.358,
+    297.022,
+    150.385,
+    437.062,
+    70.023,
+    149.103
+  ],
+  "tool_errors": 3,
+  "tool_error_categories": {
+    "File Not Found": 1,
+    "Command Failed": 2
+  },
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 43,
+  "lines_removed": 0,
+  "files_modified": 2,
+  "message_hours": [
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22
+  ],
+  "user_message_timestamps": [
+    "2026-03-02T04:12:14.438Z",
+    "2026-03-02T04:12:14.438Z",
+    "2026-03-02T04:15:20.249Z",
+    "2026-03-02T04:15:20.248Z",
+    "2026-03-02T04:15:20.248Z",
+    "2026-03-02T04:24:35.286Z",
+    "2026-03-02T04:25:16.608Z",
+    "2026-03-02T04:25:38.720Z",
+    "2026-03-02T04:31:46.019Z",
+    "2026-03-02T04:34:26.518Z",
+    "2026-03-02T04:42:43.961Z",
+    "2026-03-02T04:44:15.961Z",
+    "2026-03-02T04:47:10.502Z"
+  ]
+}

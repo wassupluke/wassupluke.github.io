@@ -1,0 +1,75 @@
+{
+  "session_id": "cbbce708-bae2-4d97-a5ee-202ffbdbc79e",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-02-22T22:18:59.646Z",
+  "duration_minutes": 18,
+  "user_message_count": 12,
+  "assistant_message_count": 30,
+  "tool_counts": {
+    "Bash": 6,
+    "Read": 8,
+    "Glob": 2,
+    "Edit": 3,
+    "Write": 1
+  },
+  "languages": {
+    "Python": 5,
+    "HTML": 4
+  },
+  "git_commits": 1,
+  "git_pushes": 1,
+  "input_tokens": 42,
+  "output_tokens": 4607,
+  "first_prompt": "Add a download progress bar or a new progress screen. Give it a small--maybe 3 line--tail view of the logs so they can see it's working. The existing functionality just shows the browser tab spinning…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    298.202,
+    298.109,
+    298.202,
+    353.199,
+    144.834,
+    233.793,
+    233.708,
+    233.793
+  ],
+  "tool_errors": 2,
+  "tool_error_categories": {
+    "File Not Found": 1,
+    "Other": 1
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 159,
+  "lines_removed": 11,
+  "files_modified": 2,
+  "message_hours": [
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+  ],
+  "user_message_timestamps": [
+    "2026-02-22T22:18:59.646Z",
+    "2026-02-22T22:18:59.631Z",
+    "2026-02-22T22:18:59.646Z",
+    "2026-02-22T22:23:05.823Z",
+    "2026-02-22T22:29:17.982Z",
+    "2026-02-22T22:29:17.889Z",
+    "2026-02-22T22:29:17.982Z",
+    "2026-02-22T22:30:12.979Z",
+    "2026-02-22T22:33:00.674Z",
+    "2026-02-22T22:37:06.051Z",
+    "2026-02-22T22:37:05.966Z",
+    "2026-02-22T22:37:06.051Z"
+  ]
+}

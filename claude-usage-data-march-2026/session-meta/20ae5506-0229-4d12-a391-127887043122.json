@@ -1,0 +1,55 @@
+{
+  "session_id": "20ae5506-0229-4d12-a391-127887043122",
+  "project_path": "/home/wassu/code/launcher",
+  "start_time": "2026-03-16T17:31:33.985Z",
+  "duration_minutes": 5,
+  "user_message_count": 7,
+  "assistant_message_count": 14,
+  "tool_counts": {
+    "Skill": 1,
+    "ToolSearch": 2,
+    "TaskCreate": 1,
+    "TaskUpdate": 1,
+    "Read": 1,
+    "Write": 1
+  },
+  "languages": {
+    "Markdown": 2
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 32,
+  "output_tokens": 3402,
+  "first_prompt": "Use /brainstorming to figure out why the `tutorial_usage_screen` in @app/src/main/res/layout/tutorial_2_usage.xml and `tutorial_app_list_screen` in @app/src/main/res/layout/tutorial_3_app_list.xml is…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    62.471
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 26,
+  "lines_removed": 0,
+  "files_modified": 1,
+  "message_hours": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12
+  ],
+  "user_message_timestamps": [
+    "2026-03-16T17:31:33.985Z",
+    "2026-03-16T17:30:14.686Z",
+    "2026-03-16T17:30:14.686Z",
+    "2026-03-16T17:31:34.087Z",
+    "2026-03-16T17:34:01.866Z",
+    "2026-03-16T17:34:06.946Z",
+    "2026-03-16T17:36:02.123Z"
+  ]
+}

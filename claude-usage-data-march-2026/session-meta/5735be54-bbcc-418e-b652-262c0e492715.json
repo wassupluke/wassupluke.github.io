@@ -1,0 +1,66 @@
+{
+  "session_id": "5735be54-bbcc-418e-b652-262c0e492715",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T20:19:06.220Z",
+  "duration_minutes": 9,
+  "user_message_count": 8,
+  "assistant_message_count": 24,
+  "tool_counts": {
+    "Bash": 7,
+    "Agent": 1,
+    "Read": 3,
+    "Write": 1,
+    "ToolSearch": 1,
+    "ExitPlanMode": 1,
+    "Edit": 1
+  },
+  "languages": {
+    "Markdown": 2
+  },
+  "git_commits": 2,
+  "git_pushes": 1,
+  "input_tokens": 33,
+  "output_tokens": 2321,
+  "first_prompt": "Implement the following plan:  # Plan: Squash commits and push  ## Context  Branch `fix/scheduler-aware-datetime` has 5 commits to squash + 1 uncommitted docker-compose change to commit separately, th…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    10.701,
+    10.701,
+    10.701,
+    4.265,
+    4.262,
+    4.262,
+    28.007
+  ],
+  "tool_errors": 1,
+  "tool_error_categories": {
+    "User Rejected": 1
+  },
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 30,
+  "lines_removed": 1,
+  "files_modified": 2,
+  "message_hours": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T20:19:06.220Z",
+    "2026-03-15T20:19:55.142Z",
+    "2026-03-15T20:19:55.142Z",
+    "2026-03-15T20:19:55.142Z",
+    "2026-03-15T20:25:21.145Z",
+    "2026-03-15T20:25:21.142Z",
+    "2026-03-15T20:25:21.142Z",
+    "2026-03-15T20:25:44.887Z"
+  ]
+}

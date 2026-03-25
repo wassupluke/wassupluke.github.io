@@ -1,0 +1,21 @@
+{
+  "underlying_goal": "Set up documentation for ARM home server and troubleshoot disc ripping errors",
+  "goal_categories": {
+    "documentation_creation": 1,
+    "debugging": 2
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1,
+    "unclear": 2
+  },
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "multi_task",
+  "friction_counts": {
+    "wrong_approach": 1
+  },
+  "friction_detail": "Claude got stuck in plan mode during the second debugging task and couldn't complete the fix before user interrupted.",
+  "primary_success": "good_debugging",
+  "brief_summary": "User wanted CLAUDE.md created and ARM ripping errors debugged; docs were created successfully but debugging was only partially completed across two error investigations.",
+  "session_id": "69bedc7d-36e2-4b7f-9556-9174832b8897"
+}

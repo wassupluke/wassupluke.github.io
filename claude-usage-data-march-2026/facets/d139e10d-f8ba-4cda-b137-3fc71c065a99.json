@@ -1,0 +1,21 @@
+{
+  "underlying_goal": "Fix two bugs in the 'Limit results' feature (minimum value allowing 0, and auto-launch incorrectly using capped results instead of full filtered count), then clean up commits and prepare a PR",
+  "goal_categories": {
+    "bug_fix": 1,
+    "git_operations": 2,
+    "documentation_writing": 2,
+    "quick_question": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "satisfied": 3,
+    "likely_satisfied": 3
+  },
+  "claude_helpfulness": "essential",
+  "session_type": "multi_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "correct_code_edits",
+  "brief_summary": "User wanted to fix two bugs in the limit-results feature, squash commits, force push, and draft a PR description — all completed smoothly.",
+  "session_id": "d139e10d-f8ba-4cda-b137-3fc71c065a99"
+}

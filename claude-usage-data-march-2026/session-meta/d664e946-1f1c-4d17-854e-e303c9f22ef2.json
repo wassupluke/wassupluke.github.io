@@ -1,0 +1,45 @@
+{
+  "session_id": "d664e946-1f1c-4d17-854e-e303c9f22ef2",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T23:00:00.945Z",
+  "duration_minutes": 1,
+  "user_message_count": 2,
+  "assistant_message_count": 11,
+  "tool_counts": {
+    "Grep": 2,
+    "Read": 1,
+    "Edit": 1,
+    "Bash": 2
+  },
+  "languages": {
+    "Python": 3
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 19,
+  "output_tokens": 931,
+  "first_prompt": "Implement the following plan:  # Fix Shorts exclusion — replace --match-filter with /videos URL  ## Context `--match-filter \"original_url!*=/shorts/ & url!*=/shorts/\"` was added to exclude YouTube Sho…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    15.273
+  ],
+  "tool_errors": 1,
+  "tool_error_categories": {
+    "Other": 1
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 5,
+  "lines_removed": 1,
+  "files_modified": 1,
+  "message_hours": [
+    18,
+    18
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T23:00:00.945Z",
+    "2026-03-15T23:00:35.724Z"
+  ]
+}

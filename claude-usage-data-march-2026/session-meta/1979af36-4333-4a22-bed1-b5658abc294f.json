@@ -1,0 +1,65 @@
+{
+  "session_id": "1979af36-4333-4a22-bed1-b5658abc294f",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T21:04:34.429Z",
+  "duration_minutes": 7,
+  "user_message_count": 7,
+  "assistant_message_count": 45,
+  "tool_counts": {
+    "Read": 11,
+    "Edit": 12,
+    "Bash": 7,
+    "Write": 1,
+    "ToolSearch": 1,
+    "ExitPlanMode": 1
+  },
+  "languages": {
+    "Python": 14,
+    "HTML": 8,
+    "Markdown": 2
+  },
+  "git_commits": 1,
+  "git_pushes": 1,
+  "input_tokens": 74,
+  "output_tokens": 6505,
+  "first_prompt": "Implement the following plan:  # Refactor: Playlist watches → Channel watches  ## Context The current watch system monitors YouTube playlists. We're switching to monitoring entire YouTube channels. Th…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    9.938,
+    12.427,
+    4.488,
+    4.487,
+    4.487,
+    104.645
+  ],
+  "tool_errors": 3,
+  "tool_error_categories": {
+    "Command Failed": 1,
+    "User Rejected": 2
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 104,
+  "lines_removed": 20,
+  "files_modified": 6,
+  "message_hours": [
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T21:04:34.429Z",
+    "2026-03-15T21:05:41.960Z",
+    "2026-03-15T21:06:05.545Z",
+    "2026-03-15T21:06:31.474Z",
+    "2026-03-15T21:06:31.473Z",
+    "2026-03-15T21:06:31.473Z",
+    "2026-03-15T21:11:08.213Z"
+  ]
+}

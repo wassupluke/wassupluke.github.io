@@ -1,0 +1,59 @@
+{
+  "session_id": "5056134d-26f6-41ac-9349-7f29d50eb1c6",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-14T01:57:10.068Z",
+  "duration_minutes": 3,
+  "user_message_count": 7,
+  "assistant_message_count": 19,
+  "tool_counts": {
+    "Read": 4,
+    "Glob": 1,
+    "Edit": 4,
+    "Bash": 3
+  },
+  "languages": {
+    "YAML": 3,
+    "Python": 3
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 26,
+  "output_tokens": 1434,
+  "first_prompt": "Implement the following plan:  # Plan: Fix IsADirectoryError on watches.json  ## Context `docker-compose.yml` bind-mounts `./watches.json:/app/watches.json` (a file). When the source file doesn't exis…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    13.342,
+    13.342,
+    13.342,
+    150.72,
+    150.72,
+    150.72
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 4,
+  "lines_removed": 6,
+  "files_modified": 3,
+  "message_hours": [
+    20,
+    20,
+    20,
+    20,
+    21,
+    21,
+    21
+  ],
+  "user_message_timestamps": [
+    "2026-03-14T01:57:10.068Z",
+    "2026-03-14T01:57:53.347Z",
+    "2026-03-14T01:57:53.347Z",
+    "2026-03-14T01:57:53.347Z",
+    "2026-03-14T02:00:31.012Z",
+    "2026-03-14T02:00:31.012Z",
+    "2026-03-14T02:00:31.012Z"
+  ]
+}

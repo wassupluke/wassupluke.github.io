@@ -1,0 +1,40 @@
+{
+  "session_id": "23fbc5b6-b54e-4a69-854c-c1ed865379e7",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T17:07:43.380Z",
+  "duration_minutes": 0,
+  "user_message_count": 1,
+  "assistant_message_count": 13,
+  "tool_counts": {
+    "Read": 2,
+    "Grep": 1,
+    "Write": 1,
+    "Edit": 4,
+    "Bash": 1
+  },
+  "languages": {
+    "Python": 6
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 19,
+  "output_tokens": 1212,
+  "first_prompt": "Implement the following plan:  # Fix: Scheduler Datetime Crash — Full Resolution  ## Context  The scheduler crashes in production with `can't subtract offset-naive and offset-aware datetimes`. The `ap…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 12,
+  "lines_removed": 3,
+  "files_modified": 3,
+  "message_hours": [
+    12
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T17:07:43.380Z"
+  ]
+}

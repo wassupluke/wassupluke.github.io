@@ -1,0 +1,34 @@
+{
+  "session_id": "b619bec3-5191-42a9-b014-804fc488cff3",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T20:10:47.566Z",
+  "duration_minutes": 0,
+  "user_message_count": 1,
+  "assistant_message_count": 2,
+  "tool_counts": {
+    "Agent": 1
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 6,
+  "output_tokens": 212,
+  "first_prompt": "I'm getting the error: wassu@jellyfin:~/jellyfin-downloader$ sudo docker compose up[+] up 2/2  ✔ Network jellyfin-downloader_default       Created    0.0s  ✔ Container jellyfin-downloader-flask_app-1…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    15
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T20:11:06.423Z"
+  ]
+}

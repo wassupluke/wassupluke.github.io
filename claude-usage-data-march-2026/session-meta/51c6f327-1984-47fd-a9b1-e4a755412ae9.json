@@ -1,0 +1,45 @@
+{
+  "session_id": "51c6f327-1984-47fd-a9b1-e4a755412ae9",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T16:09:32.801Z",
+  "duration_minutes": 1,
+  "user_message_count": 2,
+  "assistant_message_count": 11,
+  "tool_counts": {
+    "Grep": 1,
+    "Bash": 4,
+    "Edit": 2,
+    "Read": 1
+  },
+  "languages": {
+    "Python": 3
+  },
+  "git_commits": 1,
+  "git_pushes": 1,
+  "input_tokens": 19,
+  "output_tokens": 963,
+  "first_prompt": "Implement the following plan:  # Fix: offset-naive vs offset-aware datetime crash in scheduler  ## Context The `_scheduler_loop()` in `app.py` crashes with `can't subtract offset-naive and offset-awar…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    17.702
+  ],
+  "tool_errors": 1,
+  "tool_error_categories": {
+    "Other": 1
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 2,
+  "lines_removed": 2,
+  "files_modified": 1,
+  "message_hours": [
+    11,
+    11
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T16:09:32.801Z",
+    "2026-03-15T16:10:14.391Z"
+  ]
+}

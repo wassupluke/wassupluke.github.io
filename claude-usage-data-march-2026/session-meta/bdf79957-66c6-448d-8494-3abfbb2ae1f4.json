@@ -1,0 +1,64 @@
+{
+  "session_id": "bdf79957-66c6-448d-8494-3abfbb2ae1f4",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T20:40:38.470Z",
+  "duration_minutes": 12,
+  "user_message_count": 7,
+  "assistant_message_count": 31,
+  "tool_counts": {
+    "Read": 6,
+    "Grep": 3,
+    "Edit": 2,
+    "Bash": 4,
+    "Agent": 1,
+    "Write": 2,
+    "ToolSearch": 1,
+    "AskUserQuestion": 2
+  },
+  "languages": {
+    "Python": 3,
+    "HTML": 2,
+    "Markdown": 3
+  },
+  "git_commits": 1,
+  "git_pushes": 1,
+  "input_tokens": 50,
+  "output_tokens": 4666,
+  "first_prompt": "Implement the following plan:  # Fix: Enable yt-dlp remote components for YouTube JS challenge solving  ## Context YouTube now requires solving JavaScript challenges to extract video info. yt-dlp need…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    10.114,
+    4.92,
+    4.92,
+    4.92,
+    41.919,
+    211.311
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 100,
+  "lines_removed": 0,
+  "files_modified": 3,
+  "message_hours": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T20:40:38.470Z",
+    "2026-03-15T20:41:06.546Z",
+    "2026-03-15T20:41:41.746Z",
+    "2026-03-15T20:41:41.746Z",
+    "2026-03-15T20:41:41.746Z",
+    "2026-03-15T20:44:35.564Z",
+    "2026-03-15T20:48:12.518Z"
+  ]
+}

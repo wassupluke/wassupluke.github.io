@@ -1,0 +1,15 @@
+{
+  "underlying_goal": "User was configuring/reloading plugins via local commands, no direct request to Claude",
+  "goal_categories": {
+    "warmup_minimal": 1
+  },
+  "outcome": "unclear_from_transcript",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "unhelpful",
+  "session_type": "exploration",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "none",
+  "brief_summary": "User ran local plugin reload commands without making any requests to Claude.",
+  "session_id": "5786fbf8-4f76-484d-b587-a49e4cad51df"
+}

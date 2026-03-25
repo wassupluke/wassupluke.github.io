@@ -1,0 +1,40 @@
+{
+  "session_id": "29cadb4f-28ae-42cc-9d76-7858cc59dea1",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-15T20:39:19.024Z",
+  "duration_minutes": 1,
+  "user_message_count": 1,
+  "assistant_message_count": 10,
+  "tool_counts": {
+    "Agent": 1,
+    "Read": 3,
+    "Write": 1,
+    "ToolSearch": 1
+  },
+  "languages": {
+    "Python": 1,
+    "Markdown": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 16,
+  "output_tokens": 1217,
+  "first_prompt": "WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remo…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 22,
+  "lines_removed": 0,
+  "files_modified": 1,
+  "message_hours": [
+    15
+  ],
+  "user_message_timestamps": [
+    "2026-03-15T20:39:32.678Z"
+  ]
+}

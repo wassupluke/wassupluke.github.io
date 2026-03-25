@@ -1,0 +1,47 @@
+{
+  "session_id": "9a09edd1-dac8-4f5b-9e40-bcc6f4a48f46",
+  "project_path": "/home/wassu/code/ai-digest",
+  "start_time": "2026-03-04T17:26:32.121Z",
+  "duration_minutes": 10,
+  "user_message_count": 2,
+  "assistant_message_count": 20,
+  "tool_counts": {
+    "Read": 6,
+    "Write": 3,
+    "Edit": 2,
+    "Grep": 1
+  },
+  "languages": {
+    "HTML": 7,
+    "CSS": 1,
+    "Markdown": 3
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 34,
+  "output_tokens": 8510,
+  "first_prompt": "Implement the following plan:  # Plan: Extract inline CSS to shared stylesheet  ## Context All digests share the same styles (currently inlined in every HTML file). Extracting to a single CSS file avo…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    494.806
+  ],
+  "tool_errors": 1,
+  "tool_error_categories": {
+    "Other": 1
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 145,
+  "lines_removed": 170,
+  "files_modified": 4,
+  "message_hours": [
+    11,
+    11
+  ],
+  "user_message_timestamps": [
+    "2026-03-04T17:26:31.981Z",
+    "2026-03-04T17:35:51.663Z"
+  ]
+}

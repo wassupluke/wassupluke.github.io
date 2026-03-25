@@ -1,0 +1,15 @@
+{
+  "underlying_goal": "No goal - user immediately exited the session",
+  "goal_categories": {
+    "warmup_minimal": 1
+  },
+  "outcome": "unclear_from_transcript",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "unhelpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "none",
+  "brief_summary": "User opened a session and immediately exited without making any requests.",
+  "session_id": "04be2bd7-01de-449d-b98a-e76ac6ac3b40"
+}

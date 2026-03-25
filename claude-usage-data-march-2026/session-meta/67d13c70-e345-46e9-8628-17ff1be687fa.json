@@ -1,0 +1,40 @@
+{
+  "session_id": "67d13c70-e345-46e9-8628-17ff1be687fa",
+  "project_path": "/home/wassu/code/launcher",
+  "start_time": "2026-02-16T03:24:49.166Z",
+  "duration_minutes": 1,
+  "user_message_count": 1,
+  "assistant_message_count": 26,
+  "tool_counts": {
+    "TaskGet": 1,
+    "TaskUpdate": 1,
+    "Read": 14,
+    "Glob": 6
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 32,
+  "output_tokens": 1754,
+  "first_prompt": "<teammate-message teammate_id=\"team-lead\"> You are the performance engineer on a team evaluating the migration of μLauncher to Jetpack Compose with Material Design 3.  Your task is Task #3 in the team…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 3,
+  "tool_error_categories": {
+    "File Not Found": 1,
+    "Other": 2
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    21
+  ],
+  "user_message_timestamps": [
+    "2026-02-16T03:24:49.166Z"
+  ]
+}

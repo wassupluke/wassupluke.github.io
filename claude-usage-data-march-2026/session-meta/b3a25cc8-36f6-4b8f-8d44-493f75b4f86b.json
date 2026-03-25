@@ -1,0 +1,40 @@
+{
+  "session_id": "b3a25cc8-36f6-4b8f-8d44-493f75b4f86b",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-03-13T23:39:17.978Z",
+  "duration_minutes": 0,
+  "user_message_count": 2,
+  "assistant_message_count": 2,
+  "tool_counts": {
+    "Read": 1
+  },
+  "languages": {
+    "Markdown": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 6,
+  "output_tokens": 101,
+  "first_prompt": "Implement the following plan:  # Plan: Update CLAUDE.md  ## Context The existing CLAUDE.md is outdated — it references a deleted `autodownloader.sh`, describes only \"two modes\" when the app now has a…",
+  "user_interruptions": 1,
+  "user_response_times": [
+    11.067
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    18,
+    18
+  ],
+  "user_message_timestamps": [
+    "2026-03-13T23:39:17.978Z",
+    "2026-03-13T23:39:32.303Z"
+  ]
+}

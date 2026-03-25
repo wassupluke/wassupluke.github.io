@@ -1,0 +1,43 @@
+{
+  "session_id": "d6310f7b-5815-413e-b900-e679c6074f36",
+  "project_path": "/home/wassu/code/launcher",
+  "start_time": "2026-02-16T03:24:45.316Z",
+  "duration_minutes": 951,
+  "user_message_count": 3,
+  "assistant_message_count": 52,
+  "tool_counts": {
+    "TaskGet": 1,
+    "TaskUpdate": 1,
+    "Read": 33,
+    "Glob": 4
+  },
+  "languages": {
+    "Java": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 70,
+  "output_tokens": 3082,
+  "first_prompt": "<teammate-message teammate_id=\"team-lead\"> You are the technical architect on a team evaluating the migration of μLauncher to Jetpack Compose with Material Design 3.  Your task is Task #2 in the team…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    21,
+    21,
+    13
+  ],
+  "user_message_timestamps": [
+    "2026-02-16T03:24:45.316Z",
+    "2026-02-16T03:25:31.970Z",
+    "2026-02-16T19:15:33.108Z"
+  ]
+}

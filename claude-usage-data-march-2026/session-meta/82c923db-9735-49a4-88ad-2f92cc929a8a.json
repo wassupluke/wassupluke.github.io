@@ -1,0 +1,51 @@
+{
+  "session_id": "82c923db-9735-49a4-88ad-2f92cc929a8a",
+  "project_path": "/home/wassu/code/jellyfin-downloader",
+  "start_time": "2026-02-22T21:05:40.679Z",
+  "duration_minutes": 3,
+  "user_message_count": 2,
+  "assistant_message_count": 32,
+  "tool_counts": {
+    "Read": 12,
+    "Glob": 2,
+    "Write": 7,
+    "Bash": 3,
+    "Edit": 1
+  },
+  "languages": {
+    "Python": 2,
+    "YAML": 2,
+    "HTML": 7,
+    "Shell": 2
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 52,
+  "output_tokens": 7567,
+  "first_prompt": "Implement the following plan:  # Plan: Consolidate & Add Playlist Watch UI  ## Context  The jellyfin-downloader currently has two disconnected pieces: a Flask web UI for manual downloads and a bash sc…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    72.742
+  ],
+  "tool_errors": 4,
+  "tool_error_categories": {
+    "File Not Found": 1,
+    "Other": 2,
+    "Command Failed": 1
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 491,
+  "lines_removed": 1,
+  "files_modified": 8,
+  "message_hours": [
+    15,
+    15
+  ],
+  "user_message_timestamps": [
+    "2026-02-22T21:05:40.679Z",
+    "2026-02-22T21:08:39.410Z"
+  ]
+}

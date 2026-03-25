@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "Fix yt-dlp YouTube JS challenge error by enabling remote components",
+  "goal_categories": {
+    "debugging": 1
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "single_task",
+  "friction_counts": {
+    "user_rejected_action": 1
+  },
+  "friction_detail": "User interrupted Claude before it could apply the fix.",
+  "primary_success": "good_debugging",
+  "brief_summary": "User pasted a yt-dlp error about YouTube JS challenges; Claude diagnosed the fix but was interrupted before completing the code changes.",
+  "session_id": "29cadb4f-28ae-42cc-9d76-7858cc59dea1"
+}

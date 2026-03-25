@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "Create a CLAUDE.md file documenting the codebase for future Claude Code instances",
+  "goal_categories": {
+    "documentation_generation": 1
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "single_task",
+  "friction_counts": {
+    "user_rejected_action": 1
+  },
+  "friction_detail": "User interrupted the tool use before Claude finished writing CLAUDE.md.",
+  "primary_success": "multi_file_changes",
+  "brief_summary": "User asked Claude to analyze the codebase and create a CLAUDE.md file, but interrupted before completion.",
+  "session_id": "faebfb5b-dc25-47ff-a005-79004281a49f"
+}

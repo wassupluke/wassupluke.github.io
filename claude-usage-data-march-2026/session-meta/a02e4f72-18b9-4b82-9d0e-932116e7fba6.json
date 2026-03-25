@@ -1,0 +1,42 @@
+{
+  "session_id": "a02e4f72-18b9-4b82-9d0e-932116e7fba6",
+  "project_path": "/home/wassu/code/launcher",
+  "start_time": "2026-02-16T03:24:44.643Z",
+  "duration_minutes": 951,
+  "user_message_count": 3,
+  "assistant_message_count": 58,
+  "tool_counts": {
+    "TaskGet": 1,
+    "TaskUpdate": 1,
+    "Glob": 7,
+    "Read": 32,
+    "Grep": 5
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 486,
+  "output_tokens": 3624,
+  "first_prompt": "<teammate-message teammate_id=\"team-lead\"> You are the UX analyst on a team evaluating the migration of μLauncher to Jetpack Compose with Material You / Material Design 3.  Your task is Task #1 in the…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    21,
+    21,
+    13
+  ],
+  "user_message_timestamps": [
+    "2026-02-16T03:24:44.643Z",
+    "2026-02-16T03:25:34.663Z",
+    "2026-02-16T19:15:33.482Z"
+  ]
+}
