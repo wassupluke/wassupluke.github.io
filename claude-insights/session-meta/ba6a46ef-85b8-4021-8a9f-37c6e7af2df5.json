@@ -1,0 +1,63 @@
+{
+  "session_id": "ba6a46ef-85b8-4021-8a9f-37c6e7af2df5",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-03-25T17:19:53.225Z",
+  "duration_minutes": 7,
+  "user_message_count": 8,
+  "assistant_message_count": 31,
+  "tool_counts": {
+    "Glob": 2,
+    "Read": 4,
+    "Skill": 1,
+    "Bash": 7,
+    "Edit": 3
+  },
+  "languages": {
+    "YAML": 2
+  },
+  "git_commits": 1,
+  "git_pushes": 0,
+  "input_tokens": 47,
+  "output_tokens": 5107,
+  "first_prompt": "I'd like to have this automatically update the version tag in app/build.gradle.kts but I don't know what mechanism is current best practice for this in 2026. Thoughts?",
+  "user_interruptions": 1,
+  "user_response_times": [
+    92.063,
+    92.033,
+    141.966,
+    2.716,
+    3.86,
+    82.493
+  ],
+  "tool_errors": 1,
+  "tool_error_categories": {
+    "Other": 1
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 18,
+  "lines_removed": 2,
+  "files_modified": 1,
+  "message_hours": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12
+  ],
+  "user_message_timestamps": [
+    "2026-03-25T17:19:53.225Z",
+    "2026-03-25T17:22:13.899Z",
+    "2026-03-25T17:22:13.869Z",
+    "2026-03-25T17:23:03.802Z",
+    "2026-03-25T17:23:08.622Z",
+    "2026-03-25T17:23:29.713Z",
+    "2026-03-25T17:23:57.500Z",
+    "2026-03-25T17:28:42.718Z"
+  ]
+}

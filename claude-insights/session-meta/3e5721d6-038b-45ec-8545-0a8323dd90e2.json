@@ -1,0 +1,45 @@
+{
+  "session_id": "3e5721d6-038b-45ec-8545-0a8323dd90e2",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-02T03:53:53.729Z",
+  "duration_minutes": 4,
+  "user_message_count": 3,
+  "assistant_message_count": 24,
+  "tool_counts": {
+    "Read": 3,
+    "Grep": 1,
+    "Glob": 1,
+    "Bash": 3,
+    "Write": 1,
+    "Edit": 3
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 28,
+  "output_tokens": 8808,
+  "first_prompt": "Add google's Alarm [icon](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:alarm:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=alarm&icon.size=24&icon.color=%23e3e3e3) symbol at the start…",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 1,
+  "tool_error_categories": {
+    "File Not Found": 1
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 31,
+  "lines_removed": 9,
+  "files_modified": 2,
+  "message_hours": [
+    22,
+    22,
+    22
+  ],
+  "user_message_timestamps": [
+    "2026-04-02T03:53:53.729Z",
+    "2026-04-02T03:53:53.633Z",
+    "2026-04-02T03:55:02.821Z"
+  ]
+}

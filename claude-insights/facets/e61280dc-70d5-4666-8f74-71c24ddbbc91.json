@@ -1,0 +1,21 @@
+{
+  "underlying_goal": "Fix incorrectly titled TV episode files by identifying episodes via subtitle extraction, then create a reusable script to automate this validation/renaming process for other seasons",
+  "goal_categories": {
+    "media_file_identification_and_renaming": 1,
+    "script_creation_for_automation": 1,
+    "codebase_documentation": 1
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "multi_task",
+  "friction_counts": {
+    "buggy_code": 1
+  },
+  "friction_detail": "The automated script's episode scoring/matching algorithm was broken and couldn't correctly identify episodes, hitting context limit before being fixed.",
+  "primary_success": "proactive_help",
+  "brief_summary": "User wanted misnamed Friends S4 episodes fixed and a reusable script for other seasons; the manual fix succeeded perfectly but the automation script was left broken at context limit.",
+  "session_id": "e61280dc-70d5-4666-8f74-71c24ddbbc91"
+}

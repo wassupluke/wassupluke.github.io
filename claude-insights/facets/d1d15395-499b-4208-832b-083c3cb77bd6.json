@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "User wanted to check if Claude remembered a previous conversation from claude.ai about an AI Agent competition",
+  "goal_categories": {
+    "warmup_minimal": 1
+  },
+  "outcome": "not_achieved",
+  "user_satisfaction_counts": {
+    "dissatisfied": 1
+  },
+  "claude_helpfulness": "slightly_helpful",
+  "session_type": "quick_question",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "none",
+  "brief_summary": "User asked if Claude remembered a prior conversation; Claude correctly explained it couldn't, and the user immediately exited.",
+  "session_id": "d1d15395-499b-4208-832b-083c3cb77bd6"
+}

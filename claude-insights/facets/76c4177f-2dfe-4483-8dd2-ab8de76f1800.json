@@ -1,0 +1,21 @@
+{
+  "underlying_goal": "Diagnose why their Automatic Ripping Machine stopped working and set up monitoring for when the fix (new MakeMKV beta key) becomes available",
+  "goal_categories": {
+    "debugging_diagnosis": 1,
+    "monitoring_setup": 1,
+    "clarification_correction": 1
+  },
+  "outcome": "mostly_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 3
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "iterative_refinement",
+  "friction_counts": {
+    "wrong_approach": 1
+  },
+  "friction_detail": "Claude initially theorized settings.conf was empty as the root cause before the user redirected to the actual issue of the key expiring at UTC midnight.",
+  "primary_success": "good_debugging",
+  "brief_summary": "User needed to diagnose why MakeMKV stopped working (beta key expired at UTC midnight) and set up monitoring for the new key; Claude diagnosed the issue and helped plan a changedetection.io watch.",
+  "session_id": "76c4177f-2dfe-4483-8dd2-ab8de76f1800"
+}

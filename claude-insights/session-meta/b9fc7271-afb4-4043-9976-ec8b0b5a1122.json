@@ -1,0 +1,42 @@
+{
+  "session_id": "b9fc7271-afb4-4043-9976-ec8b0b5a1122",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-04T00:18:14.380Z",
+  "duration_minutes": 854,
+  "user_message_count": 4,
+  "assistant_message_count": 121,
+  "tool_counts": {
+    "Glob": 5,
+    "Read": 8,
+    "Bash": 69
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 145,
+  "output_tokens": 66641,
+  "first_prompt": "/superpowers:systematic-debugging Adding a tap target for tge clock widget makes all widgets show the clock content and they all take on the clock tap target.",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    19,
+    19,
+    9,
+    9
+  ],
+  "user_message_timestamps": [
+    "2026-04-04T00:18:14.380Z",
+    "2026-04-04T00:18:14.380Z",
+    "2026-04-04T14:02:40.773Z",
+    "2026-04-04T14:02:40.773Z"
+  ]
+}

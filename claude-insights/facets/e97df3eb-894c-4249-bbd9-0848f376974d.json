@@ -1,0 +1,15 @@
+{
+  "underlying_goal": "Check whether a specific wishlist feature (Enter to lock in settings) was already implemented, and find which commit introduced it",
+  "goal_categories": {
+    "information_lookup": 2
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "very_helpful",
+  "session_type": "quick_question",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "fast_accurate_search",
+  "brief_summary": "User asked whether a wishlist feature was already implemented and which commit added it; Claude quickly confirmed both.",
+  "session_id": "e97df3eb-894c-4249-bbd9-0848f376974d"
+}

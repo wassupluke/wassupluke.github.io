@@ -1,0 +1,61 @@
+{
+  "session_id": "e97df3eb-894c-4249-bbd9-0848f376974d",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-03-25T20:23:54.295Z",
+  "duration_minutes": 12,
+  "user_message_count": 10,
+  "assistant_message_count": 6,
+  "tool_counts": {
+    "Grep": 1,
+    "Bash": 1
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 14,
+  "output_tokens": 447,
+  "first_prompt": "Did we already fix the wishlist item: \"Ability to lock in a typed setting (e.g., location or text color) by hitting Return/Enter\"?",
+  "user_interruptions": 0,
+  "user_response_times": [
+    12.279,
+    687.33,
+    687.054,
+    687.33,
+    697.464,
+    697.257,
+    697.464
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
+  ],
+  "user_message_timestamps": [
+    "2026-03-25T20:23:54.295Z",
+    "2026-03-25T20:23:54.202Z",
+    "2026-03-25T20:24:06.544Z",
+    "2026-03-25T20:24:34.154Z",
+    "2026-03-25T20:36:09.885Z",
+    "2026-03-25T20:36:09.609Z",
+    "2026-03-25T20:36:09.885Z",
+    "2026-03-25T20:36:20.019Z",
+    "2026-03-25T20:36:19.812Z",
+    "2026-03-25T20:36:20.019Z"
+  ]
+}

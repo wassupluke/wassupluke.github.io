@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "Initialize a new project using a GSD workflow/skill",
+  "goal_categories": {
+    "project_setup": 1
+  },
+  "outcome": "not_achieved",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "slightly_helpful",
+  "session_type": "single_task",
+  "friction_counts": {
+    "environment_error": 3
+  },
+  "friction_detail": "A stop hook kept firing with a cd error to a non-existent directory, blocking the session repeatedly before the user could respond to questions.",
+  "primary_success": "none",
+  "brief_summary": "User tried to start a new project via gsd-new-project but the session was blocked by repeated stop hook errors before any real work could happen.",
+  "session_id": "a64135ae-b2aa-48d9-b9ac-8aabbbef0eb2"
+}

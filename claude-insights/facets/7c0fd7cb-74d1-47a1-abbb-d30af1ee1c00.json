@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "Get a short, enthusiastic PR merge commit message summarizing recent changes",
+  "goal_categories": {
+    "writing_commit_message": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "good_explanations",
+  "brief_summary": "User asked for a short enthusiastic PR merge message and Claude delivered one promptly.",
+  "session_id": "7c0fd7cb-74d1-47a1-abbb-d30af1ee1c00"
+}

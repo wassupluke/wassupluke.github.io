@@ -1,0 +1,60 @@
+{
+  "session_id": "d5383a37-cddc-4726-87ca-512b6f4edd1e",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-02T04:47:25.268Z",
+  "duration_minutes": 2,
+  "user_message_count": 10,
+  "assistant_message_count": 8,
+  "tool_counts": {
+    "Bash": 3
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 16,
+  "output_tokens": 598,
+  "first_prompt": "what are these two commits?",
+  "user_interruptions": 0,
+  "user_response_times": [
+    60.341,
+    8.331,
+    8.317,
+    8.331,
+    20.455,
+    20.454,
+    20.454
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23
+  ],
+  "user_message_timestamps": [
+    "2026-04-02T04:47:25.268Z",
+    "2026-04-02T04:47:25.165Z",
+    "2026-04-02T04:47:33.311Z",
+    "2026-04-02T04:48:40.455Z",
+    "2026-04-02T04:48:59.155Z",
+    "2026-04-02T04:48:59.141Z",
+    "2026-04-02T04:48:59.155Z",
+    "2026-04-02T04:49:11.279Z",
+    "2026-04-02T04:49:11.278Z",
+    "2026-04-02T04:49:11.278Z"
+  ]
+}

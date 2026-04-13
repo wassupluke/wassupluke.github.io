@@ -1,0 +1,54 @@
+{
+  "session_id": "1442dd31-fb02-45b5-a523-1353109f0296",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-02T04:02:42.686Z",
+  "duration_minutes": 6,
+  "user_message_count": 4,
+  "assistant_message_count": 31,
+  "tool_counts": {
+    "Agent": 1,
+    "Read": 4,
+    "Glob": 2,
+    "ToolSearch": 1,
+    "Write": 2,
+    "ExitPlanMode": 1,
+    "Edit": 7,
+    "Bash": 2
+  },
+  "languages": {
+    "Markdown": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 41,
+  "output_tokens": 4377,
+  "first_prompt": "Make the widget touch targets bound to just the text area, not the entire widget surface. e.g., if I drag the widget surface bounds to cover the entire screen it blocks any attempted touches on the sc…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    115.169
+  ],
+  "tool_errors": 2,
+  "tool_error_categories": {
+    "File Not Found": 1,
+    "Other": 1
+  },
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 85,
+  "lines_removed": 18,
+  "files_modified": 4,
+  "message_hours": [
+    23,
+    23,
+    23,
+    23
+  ],
+  "user_message_timestamps": [
+    "2026-04-02T04:02:42.686Z",
+    "2026-04-02T04:02:42.582Z",
+    "2026-04-02T04:04:23.582Z",
+    "2026-04-02T04:07:35.123Z"
+  ]
+}

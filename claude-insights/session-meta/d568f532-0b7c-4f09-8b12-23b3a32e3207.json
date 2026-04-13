@@ -1,0 +1,71 @@
+{
+  "session_id": "d568f532-0b7c-4f09-8b12-23b3a32e3207",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-02T20:17:50.301Z",
+  "duration_minutes": 26,
+  "user_message_count": 11,
+  "assistant_message_count": 32,
+  "tool_counts": {
+    "Read": 3,
+    "ToolSearch": 2,
+    "AskUserQuestion": 2,
+    "Write": 1,
+    "ExitPlanMode": 1,
+    "Edit": 4,
+    "Bash": 4
+  },
+  "languages": {
+    "Markdown": 1
+  },
+  "git_commits": 1,
+  "git_pushes": 1,
+  "input_tokens": 52,
+  "output_tokens": 9162,
+  "first_prompt": "the upcoming alarm widget is pulling some upcoming system alarm to display, not what I have set in the android Clock app. Would this be something we could fix by using `getNextAlarmClock()` in @AlarmW…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    166.875,
+    104.244,
+    50.082,
+    50.071,
+    50.082,
+    66.517,
+    66.506,
+    66.517
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 88,
+  "lines_removed": 2,
+  "files_modified": 2,
+  "message_hours": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
+  ],
+  "user_message_timestamps": [
+    "2026-04-02T20:17:50.301Z",
+    "2026-04-02T20:17:50.198Z",
+    "2026-04-02T20:21:02.878Z",
+    "2026-04-02T20:37:38.237Z",
+    "2026-04-02T20:42:43.722Z",
+    "2026-04-02T20:43:51.635Z",
+    "2026-04-02T20:43:51.624Z",
+    "2026-04-02T20:43:51.635Z",
+    "2026-04-02T20:44:08.070Z",
+    "2026-04-02T20:44:08.059Z",
+    "2026-04-02T20:44:08.070Z"
+  ]
+}

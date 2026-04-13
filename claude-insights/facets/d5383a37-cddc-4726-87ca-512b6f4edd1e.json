@@ -1,0 +1,18 @@
+{
+  "underlying_goal": "Understand and remove two unwanted local commits from the repository",
+  "goal_categories": {
+    "quick_question": 1,
+    "git_operations": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "fast_accurate_search",
+  "brief_summary": "User asked about two recent commits, then asked to remove them; Claude identified and reset them cleanly.",
+  "session_id": "d5383a37-cddc-4726-87ca-512b6f4edd1e"
+}

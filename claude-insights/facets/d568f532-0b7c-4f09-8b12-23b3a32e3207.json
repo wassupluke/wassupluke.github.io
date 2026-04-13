@@ -1,0 +1,20 @@
+{
+  "underlying_goal": "Fix the alarm widget to only show alarms from the Clock app rather than system alarms",
+  "goal_categories": {
+    "bug_fix": 1,
+    "git_operations": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 2
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "single_task",
+  "friction_counts": {
+    "buggy_code": 1
+  },
+  "friction_detail": "An edit to add a helper function failed silently and had to be retried.",
+  "primary_success": "correct_code_edits",
+  "brief_summary": "User wanted to filter the alarm widget to only show Clock app alarms; Claude implemented a creator-package check and pushed to a feature branch.",
+  "session_id": "d568f532-0b7c-4f09-8b12-23b3a32e3207"
+}

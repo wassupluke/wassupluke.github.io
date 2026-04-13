@@ -1,0 +1,54 @@
+{
+  "session_id": "6ea8e6c6-f631-41dd-9634-aca4bb3621db",
+  "project_path": "/home/wassu/StudioProjects/widgets",
+  "start_time": "2026-04-09T23:01:21.667Z",
+  "duration_minutes": 2,
+  "user_message_count": 7,
+  "assistant_message_count": 14,
+  "tool_counts": {
+    "Read": 3,
+    "Bash": 3,
+    "Write": 1
+  },
+  "languages": {
+    "Markdown": 4
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 16,
+  "output_tokens": 2473,
+  "first_prompt": "/gsd-verify-work 02",
+  "user_interruptions": 0,
+  "user_response_times": [
+    85.086,
+    84.102,
+    85.086
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 52,
+  "lines_removed": 0,
+  "files_modified": 1,
+  "message_hours": [
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18
+  ],
+  "user_message_timestamps": [
+    "2026-04-09T23:01:21.667Z",
+    "2026-04-09T23:01:21.571Z",
+    "2026-04-09T23:01:42.423Z",
+    "2026-04-09T23:01:42.423Z",
+    "2026-04-09T23:03:51.245Z",
+    "2026-04-09T23:03:50.261Z",
+    "2026-04-09T23:03:51.245Z"
+  ]
+}

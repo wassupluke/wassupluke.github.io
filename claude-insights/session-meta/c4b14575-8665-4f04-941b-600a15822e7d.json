@@ -1,0 +1,38 @@
+{
+  "session_id": "c4b14575-8665-4f04-941b-600a15822e7d",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-03T02:28:24.125Z",
+  "duration_minutes": 1,
+  "user_message_count": 3,
+  "assistant_message_count": 4,
+  "tool_counts": {
+    "Bash": 2
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 12,
+  "output_tokens": 348,
+  "first_prompt": "Do you think you can batch fix issues #23 and #14?",
+  "user_interruptions": 0,
+  "user_response_times": [],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    21,
+    21,
+    21
+  ],
+  "user_message_timestamps": [
+    "2026-04-03T02:28:24.125Z",
+    "2026-04-03T02:28:24.025Z",
+    "2026-04-03T02:28:49.229Z"
+  ]
+}

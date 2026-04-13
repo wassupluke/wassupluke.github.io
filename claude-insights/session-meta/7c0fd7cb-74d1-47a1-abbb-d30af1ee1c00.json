@@ -1,0 +1,48 @@
+{
+  "session_id": "7c0fd7cb-74d1-47a1-abbb-d30af1ee1c00",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-02T04:43:44.652Z",
+  "duration_minutes": 4,
+  "user_message_count": 6,
+  "assistant_message_count": 3,
+  "tool_counts": {
+    "Bash": 1
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 7,
+  "output_tokens": 437,
+  "first_prompt": "write an enthusiastic PR Commit merge message about what's new. Keep it pretty short. No em dashes, colons instead if you have to.",
+  "user_interruptions": 0,
+  "user_response_times": [
+    137.023,
+    136.999,
+    137.023
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 0,
+  "lines_removed": 0,
+  "files_modified": 0,
+  "message_hours": [
+    23,
+    23,
+    23,
+    23,
+    23,
+    23
+  ],
+  "user_message_timestamps": [
+    "2026-04-02T04:43:44.652Z",
+    "2026-04-02T04:43:44.553Z",
+    "2026-04-02T04:44:45.030Z",
+    "2026-04-02T04:47:15.316Z",
+    "2026-04-02T04:47:15.292Z",
+    "2026-04-02T04:47:15.316Z"
+  ]
+}

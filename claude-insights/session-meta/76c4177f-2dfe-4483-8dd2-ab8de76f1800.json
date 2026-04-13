@@ -1,0 +1,59 @@
+{
+  "session_id": "76c4177f-2dfe-4483-8dd2-ab8de76f1800",
+  "project_path": "/home/arm",
+  "start_time": "2026-04-01T02:09:39.877Z",
+  "duration_minutes": 57,
+  "user_message_count": 4,
+  "assistant_message_count": 44,
+  "tool_counts": {
+    "Glob": 2,
+    "Bash": 12,
+    "Read": 6,
+    "Agent": 2,
+    "ToolSearch": 2,
+    "Write": 1,
+    "ExitPlanMode": 1,
+    "WebFetch": 1
+  },
+  "languages": {
+    "YAML": 1,
+    "Shell": 3,
+    "Markdown": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 204,
+  "output_tokens": 10307,
+  "first_prompt": "I'm having issues with my automatic ripping machine (from https://github.com/automatic-ripping-machine/automatic-ripping-machine) failing when I put in disks tonight. Last night it was working just fi…",
+  "user_interruptions": 0,
+  "user_response_times": [
+    38.96,
+    46.507,
+    58.126
+  ],
+  "tool_errors": 3,
+  "tool_error_categories": {
+    "Command Failed": 1,
+    "Other": 1,
+    "User Rejected": 1
+  },
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": true,
+  "lines_added": 92,
+  "lines_removed": 0,
+  "files_modified": 1,
+  "message_hours": [
+    21,
+    22,
+    22,
+    22
+  ],
+  "user_message_timestamps": [
+    "2026-04-01T02:09:39.877Z",
+    "2026-04-01T03:03:04.287Z",
+    "2026-04-01T03:04:31.873Z",
+    "2026-04-01T03:05:44.897Z"
+  ]
+}

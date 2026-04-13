@@ -1,0 +1,15 @@
+{
+  "underlying_goal": "User was managing their session (clearing, reconnecting MCP, then exiting) with no substantive task",
+  "goal_categories": {
+    "warmup_minimal": 1
+  },
+  "outcome": "unclear_from_transcript",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "unhelpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "none",
+  "brief_summary": "User cleared the session, reconnected an MCP server, and exited without making any requests.",
+  "session_id": "1569c0e1-50a8-4199-b77a-a73639c1a5d0"
+}

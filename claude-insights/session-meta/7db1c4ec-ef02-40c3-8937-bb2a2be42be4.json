@@ -1,0 +1,57 @@
+{
+  "session_id": "7db1c4ec-ef02-40c3-8937-bb2a2be42be4",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-03T21:58:28.944Z",
+  "duration_minutes": 21,
+  "user_message_count": 5,
+  "assistant_message_count": 22,
+  "tool_counts": {
+    "Agent": 2,
+    "Read": 3,
+    "ToolSearch": 1,
+    "Write": 2,
+    "ExitPlanMode": 2,
+    "Edit": 1
+  },
+  "languages": {
+    "Markdown": 2
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 30,
+  "output_tokens": 35329,
+  "first_prompt": "Theres a bug where changing the font size sets all widgets to show temperature and makes all widgets inherit the weather tap action. Find the cause and determine the fix.",
+  "user_interruptions": 1,
+  "user_response_times": [
+    258.821,
+    263.39,
+    263.39,
+    263.39
+  ],
+  "tool_errors": 3,
+  "tool_error_categories": {
+    "User Rejected": 2,
+    "Other": 1
+  },
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 193,
+  "lines_removed": 1,
+  "files_modified": 2,
+  "message_hours": [
+    16,
+    17,
+    17,
+    17,
+    17
+  ],
+  "user_message_timestamps": [
+    "2026-04-03T21:58:28.944Z",
+    "2026-04-03T22:19:03.743Z",
+    "2026-04-03T22:19:08.312Z",
+    "2026-04-03T22:19:08.312Z",
+    "2026-04-03T22:19:08.312Z"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "session_id": "e2393ef8-e40c-4355-834a-1cc42461eeda",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-03T03:00:23.820Z",
+  "duration_minutes": 525,
+  "user_message_count": 14,
+  "assistant_message_count": 36,
+  "tool_counts": {
+    "Bash": 4,
+    "Agent": 3,
+    "ToolSearch": 1,
+    "Read": 3,
+    "Edit": 4,
+    "Write": 2
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 67,
+  "output_tokens": 5217,
+  "first_prompt": "Before we change anything with the tap-actions, I want to clarify that each widget needs to maintain its own separate tap target. e.g., the weather widget should be able to maintain a target to e.g.,…",
+  "user_interruptions": 1,
+  "user_response_times": [
+    4.818,
+    210.018,
+    307.255,
+    26.398
+  ],
+  "tool_errors": 1,
+  "tool_error_categories": {
+    "User Rejected": 1
+  },
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 42,
+  "lines_removed": 18,
+  "files_modified": 4,
+  "message_hours": [
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    6,
+    6,
+    6,
+    6,
+    6
+  ],
+  "user_message_timestamps": [
+    "2026-04-03T03:00:23.820Z",
+    "2026-04-03T03:00:23.723Z",
+    "2026-04-03T03:00:29.283Z",
+    "2026-04-03T03:00:29.283Z",
+    "2026-04-03T03:01:09.496Z",
+    "2026-04-03T03:01:16.908Z",
+    "2026-04-03T03:01:19.354Z",
+    "2026-04-03T03:06:35.031Z",
+    "2026-04-03T03:08:12.268Z",
+    "2026-04-03T11:43:51.257Z",
+    "2026-04-03T11:43:51.257Z",
+    "2026-04-03T11:43:51.257Z",
+    "2026-04-03T11:43:53.968Z",
+    "2026-04-03T11:44:28.100Z"
+  ]
+}

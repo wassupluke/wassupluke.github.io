@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "Fix a bug where the weather widget defaults to showing Celsius despite Fahrenheit being the default temperature unit in settings",
+  "goal_categories": {
+    "bug_fix": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "happy": 1
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "good_debugging",
+  "brief_summary": "User reported a widget defaulting to C instead of F; Claude quickly found the hardcoded fallback and fixed it.",
+  "session_id": "086544a4-f053-44d5-8c77-095c0fcfb34a"
+}

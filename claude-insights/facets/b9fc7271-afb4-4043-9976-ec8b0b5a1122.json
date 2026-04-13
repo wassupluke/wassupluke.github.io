@@ -1,0 +1,22 @@
+{
+  "underlying_goal": "Debug and fix a Glance widget issue where adding tap targets or refreshing one widget causes all widgets to show the same content and tap target",
+  "goal_categories": {
+    "debugging": 2,
+    "commit_and_push": 1,
+    "refactor_to_best_practices": 1
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1,
+    "dissatisfied": 1
+  },
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "iterative_refinement",
+  "friction_counts": {
+    "wrong_approach": 1
+  },
+  "friction_detail": "The fix replaced collectAsState with a one-shot read, which fixed the bleed issue but broke widget reactivity when settings changed.",
+  "primary_success": "good_debugging",
+  "brief_summary": "User needed to fix Glance widgets bleeding content/tap targets into each other; Claude identified root cause and applied a fix, but it introduced a new regression and the session hit context limits before a proper solution was implemented.",
+  "session_id": "b9fc7271-afb4-4043-9976-ec8b0b5a1122"
+}

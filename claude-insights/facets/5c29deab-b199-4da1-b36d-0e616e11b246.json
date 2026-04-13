@@ -1,0 +1,15 @@
+{
+  "underlying_goal": "Check for GSD updates and general session warmup/configuration",
+  "goal_categories": {
+    "warmup_minimal": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {},
+  "claude_helpfulness": "slightly_helpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "none",
+  "brief_summary": "User ran a GSD update check (already on latest), typed a random word, then exited.",
+  "session_id": "5c29deab-b199-4da1-b36d-0e616e11b246"
+}

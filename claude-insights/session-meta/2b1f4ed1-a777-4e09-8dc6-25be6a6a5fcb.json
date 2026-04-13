@@ -1,0 +1,60 @@
+{
+  "session_id": "2b1f4ed1-a777-4e09-8dc6-25be6a6a5fcb",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-02T20:46:14.707Z",
+  "duration_minutes": 33,
+  "user_message_count": 7,
+  "assistant_message_count": 44,
+  "tool_counts": {
+    "Bash": 17,
+    "ToolSearch": 2,
+    "Write": 1,
+    "ExitPlanMode": 1,
+    "Edit": 4,
+    "AskUserQuestion": 1
+  },
+  "languages": {
+    "Markdown": 1
+  },
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 66,
+  "output_tokens": 20255,
+  "first_prompt": "the issue with both widgets showing the same outout is still present. revert each widget's logic back to what it was when we had only the weather widget and no alarm widget. I think this was 027678148…",
+  "user_interruptions": 2,
+  "user_response_times": [
+    35.639,
+    45.405,
+    26.896,
+    1128.859
+  ],
+  "tool_errors": 4,
+  "tool_error_categories": {
+    "User Rejected": 4
+  },
+  "uses_task_agent": false,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 102,
+  "lines_removed": 46,
+  "files_modified": 3,
+  "message_hours": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    16
+  ],
+  "user_message_timestamps": [
+    "2026-04-02T20:46:14.707Z",
+    "2026-04-02T20:46:14.603Z",
+    "2026-04-02T20:48:11.919Z",
+    "2026-04-02T20:55:13.483Z",
+    "2026-04-02T20:55:23.249Z",
+    "2026-04-02T20:57:08.066Z",
+    "2026-04-02T21:19:34.077Z"
+  ]
+}

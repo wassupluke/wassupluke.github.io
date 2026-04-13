@@ -1,0 +1,48 @@
+{
+  "session_id": "098431bb-b905-440f-a8f0-fb14ea86f66f",
+  "project_path": "/home/wassu/StudioProjects/simple-weather",
+  "start_time": "2026-04-02T11:42:46.667Z",
+  "duration_minutes": 121,
+  "user_message_count": 4,
+  "assistant_message_count": 34,
+  "tool_counts": {
+    "Agent": 1,
+    "Bash": 12,
+    "Glob": 1,
+    "ToolSearch": 1,
+    "Read": 2,
+    "Edit": 2
+  },
+  "languages": {},
+  "git_commits": 0,
+  "git_pushes": 0,
+  "input_tokens": 993,
+  "output_tokens": 12394,
+  "first_prompt": "there has been a regression where now when i place a temp widget and then the alarm widget, the temo widget changes to also displau the alarm widget text",
+  "user_interruptions": 0,
+  "user_response_times": [
+    86.707,
+    125.335
+  ],
+  "tool_errors": 0,
+  "tool_error_categories": {},
+  "uses_task_agent": true,
+  "uses_mcp": false,
+  "uses_web_search": false,
+  "uses_web_fetch": false,
+  "lines_added": 8,
+  "lines_removed": 1,
+  "files_modified": 2,
+  "message_hours": [
+    6,
+    6,
+    8,
+    8
+  ],
+  "user_message_timestamps": [
+    "2026-04-02T11:42:46.667Z",
+    "2026-04-02T11:46:41.913Z",
+    "2026-04-02T13:38:21.254Z",
+    "2026-04-02T13:42:03.063Z"
+  ]
+}
