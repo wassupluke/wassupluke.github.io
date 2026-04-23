@@ -1,0 +1,7 @@
+# Security contact information for wassupluke.com
+# RFC 9116 compliant — https://securitytxt.org/
+
+Contact: mailto:wassupluke@gmail.com
+Expires: 2027-04-23T00:00:00.000Z
+Canonical: https://wassupluke.com/.well-known/security.txt
+Preferred-Languages: en
