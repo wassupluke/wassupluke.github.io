@@ -169,7 +169,8 @@ Summer Undergraduate Research Fellowship (SURF Program)
 `March 2022 – Present` **Multi-Specialty SICU Registered Nurse (PRN)** *Mayo Clinic, St Marys Campus, Rochester, MN*
 
 - Float to all ICUs, including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
-- Assist with managing patient care during conscious and moderate sedation. 
+- Assist with managing patient care during conscious and moderate sedation.
+- Mayo Clinic Platform Superuser; trained in leveraging de-identified EMR data for clinical hypothesis generation, AI/ML model development and deployment into Epic workflows, and cross-institutional research collaboration.
 
 ---
 
