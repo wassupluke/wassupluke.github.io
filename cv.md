@@ -30,6 +30,9 @@ ACLS, BLS, CCRN, NIHSS, TNCC
 
 ## Honors and Awards
 
+`2010 - Present` **Eagle Scout with double Silver Palms** *Boy Scouts of America*  
+> Earning two Silver Palms represents continued leadership, community service, and merit beyond the Eagle rank. Fewer than 1% of Scouts achieve this distinction.
+
 `2023` **Daisy Award** *Rochester, MN*  
 > A special honor given to extraordinary nurses for compassionate contributions going above and beyond expectations in science and sensitivity. Nominated for delivering exceptional, compassionate care to patients and demonstrating clinical excellence in patient-centered care.
 
@@ -53,9 +56,6 @@ ACLS, BLS, CCRN, NIHSS, TNCC
 
 `2011` **Phi Theta Kappa International Honor Society** *Rochester Community and Technical College*  
 > International honor society recognizing academic excellence among two-year college students; invitation based on GPA and leadership potential.
-
-`2010 - Present` **Eagle Scout with double Silver Palms** *Boy Scouts of America*  
-> Earning two Silver Palms represents continued leadership, community service, and merit beyond the Eagle rank. Fewer than 1% of Scouts achieve this distinction.
 
 `2007` **First Degree Black Belt** *American TaeKwonDo Association*
 > Demonstrates years of disciplined training, mastery of technique, and mental focus. Reflects a strong commitment to perseverance, goal setting, and personal growth—qualities that directly translate to excellence in high-stakes clinical environments.
@@ -121,9 +121,17 @@ Summer Undergraduate Research Fellowship (SURF Program)
 
 `January 2026 - Present` **Clinical Research and Trials Unit Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
 
-  - Supported inpatient and outpatient research protocols across two campuses, including complex assessments, venipuncture, IV starts, retrograde IV starts, 10-lead ECGs, and monitoring for high-intensity trials.
+- Supported inpatient and outpatient research protocols across the Rochester campuses, including novel pharmacotherapy, complex assessments, venipuncture, IV starts, retrograde IV starts, 10-lead ECGs, and monitoring for high-intensity trials.
 - Administered moderate sedation for specialized procedures such as endoscopies and colonoscopies.
 - Collaborated with multidisciplinary teams to activate new studies, maintain compliance with nursing flowsheets, and ensure seamless patient care in a dynamic research environment.
+
+---
+
+`March 2022 – Present` **Multi-Specialty SICU Registered Nurse (PRN)** *Mayo Clinic, St Marys Campus, Rochester, MN*
+
+- Float to all ICUs, including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
+- Assist with managing patient care during conscious and moderate sedation.
+- Mayo Clinic Platform Superuser; trained in leveraging de-identified EMR data for clinical hypothesis generation, AI/ML model development and deployment into Epic workflows, and cross-institutional research collaboration.
 
 ---
 
@@ -163,14 +171,6 @@ Summer Undergraduate Research Fellowship (SURF Program)
 - Served as preceptor and charge nurse.  
 - Adapted quickly to Cerner for travel nurse contract, demonstrating flexibility and strong learning ability in a new EHR system.  
 - Recognized for rapid adaptability and teamwork in variable staffing roles.  
-
----
-
-`March 2022 – Present` **Multi-Specialty SICU Registered Nurse (PRN)** *Mayo Clinic, St Marys Campus, Rochester, MN*
-
-- Float to all ICUs, including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
-- Assist with managing patient care during conscious and moderate sedation.
-- Mayo Clinic Platform Superuser; trained in leveraging de-identified EMR data for clinical hypothesis generation, AI/ML model development and deployment into Epic workflows, and cross-institutional research collaboration.
 
 ---
 
