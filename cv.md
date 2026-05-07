@@ -189,13 +189,14 @@ Summer Undergraduate Research Fellowship (SURF Program)
 ## Volunteering
 
 | Service | Hours |
-| :-------| ----: |
+| :-| -: |
+| Homeschool community coop setup/teardown | 200+ |
 | Senior Citizen Service | 47 |
-| Channel One Food Drive | 16 |
-| Harvest Call Food Packaging | 9 |
+| Channel One Food Drive food packing | 16 |
+| Harvest Call food packing | 9 |
 | Salvation Army Bell Ringing	| 8 |
 | Home Health Care Assistance | 6 |
-| In His Name Food Drive for greater Rochester, MN area | 6 |
-| HopeFest Tucson: Medical Escort | 5 |
-| Family Service Rochester Meals on Wheels | 3 |
-| Feed My Starving Children | 2.5 |
+| In His Name Food Drive for greater Rochester, MN area food packing | 6 |
+| HopeFest Tucson medical escort | 5 |
+| Family Service Rochester Meals on Wheels Denim, Diamonds, and Dice setup | 3 |
+| Feed My Starving Children food packing | 2.5 |
