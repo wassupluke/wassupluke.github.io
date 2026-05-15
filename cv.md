@@ -119,7 +119,11 @@ Summer Undergraduate Research Fellowship (SURF Program)
 
 ## Occupation
 
-`January 2026 - Present` **Clinical Research and Trials Unit Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
+`June 2026 - Onward` **Cardiac Medical ICU Registered Nurse (staff) NT7AB** *Mayo Clinic, St Marys Campus, Rochester, MN*
+
+---
+
+`January 2026 - June 2026` **Clinical Research and Trials Unit Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
 
 - Supported inpatient and outpatient research protocols across the Rochester campuses, including novel pharmacotherapy, complex assessments, venipuncture, IV starts, retrograde IV starts, 10-lead ECGs, and monitoring for high-intensity trials.
 - Administered moderate sedation for specialized procedures such as endoscopies and colonoscopies.
@@ -127,19 +131,12 @@ Summer Undergraduate Research Fellowship (SURF Program)
 
 ---
 
-`March 2022 – Present` **Multi-Specialty SICU Registered Nurse (PRN)** *Mayo Clinic, St Marys Campus, Rochester, MN*
+`March 2022 – June 2026` **Multi-Specialty SICU Registered Nurse (PRN) MB7DE** *Mayo Clinic, St Marys Campus, Rochester, MN*
 
 - Float to all ICUs, including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
 - Assist with managing patient care during conscious and moderate sedation.
 - Mayo Clinic Platform Superuser; trained in leveraging de-identified EMR data for clinical hypothesis generation, AI/ML model development and deployment into Epic workflows, and cross-institutional research collaboration.
 
----
-
-`Spring 2024` **ICU Nursing Clinical Adjunct Instructor** *St. Ambrose University – Nano Nagle Online School of Nursing*  
-
-- Provided ICU clinical instruction for LPN-to-RN students.  
-- Provided mentorship in critical thinking, evidence-based practice, and clinical documentation.  
-- Delivered interactive content on ventilator management, sedation protocols, arterial blood gas interpretation, and ICU workflows.  
 
 ---
 
@@ -148,6 +145,14 @@ Summer Undergraduate Research Fellowship (SURF Program)
 - Cared for post-surgical patients in a high-acuity cardiovascular surgical ICU.  
 - Delivered comprehensive care for primarily cardiovascular, neurosurgical, and trauma cases.  
 - Precepted new nurses and travelers; ensured safe and timely onboarding.  
+
+---
+
+`Spring 2024` **ICU Nursing Clinical Adjunct Instructor** *St. Ambrose University – Nano Nagle Online School of Nursing*  
+
+- Provided ICU clinical instruction for LPN-to-RN students.  
+- Provided mentorship in critical thinking, evidence-based practice, and clinical documentation.  
+- Delivered interactive content on ventilator management, sedation protocols, arterial blood gas interpretation, and ICU workflows.
 
 ---
 
