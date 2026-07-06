@@ -48,6 +48,10 @@ Your source for Impella education
 
 ## Learn with me
 
+### [Six Second STEMI](https://wassupluke.com/six-second-stemi)
+
+A STEMI recognition practice web app I built for residents and students.
+
 ### ABGs
 
 Go from ABGs giving you the heebie-jeebies to making them ABGeasies.
