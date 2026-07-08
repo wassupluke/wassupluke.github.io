@@ -53,7 +53,9 @@ def main(filename: str) -> None:
     title = filename.strip(".md").upper()
     head = load_template('templates/head.html').replace('{{title}}', title).replace('{{style}}', style)
     navbar = load_template('templates/navbar.html') if filename != "cv.md" else ""
-    javascript = f'<script src="static/js/nav.js"></script>' if filename != "cv.md" else ""
+    javascript = '<script src="static/js/nav.js"></script>' if filename != "cv.md" else ""
+    if filename == "photography.md":
+        javascript += '\n  <script src="static/js/lightbox.js"></script>'
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
