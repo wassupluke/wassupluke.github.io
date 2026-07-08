@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>INDEX</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/default.css">
     <link rel="icon" href="static/favicon.svg?v=2" type="image/svg+xml">
   </head>
@@ -23,17 +26,45 @@
 
     <div class="container">
       <header>
-<h1>Luke's Personal Website</h1>
+<h1>Luke Wass</h1>
 </header>
-<h3>About</h3>
-<p>I'm a <a href="nursing.html">nurse</a>, <a href="athlete.html">endurance athlete</a>, <a href="https://instagram.com/lukewassphotography">photographer</a>, and <a href="https://github.com/wassupluke/">developer</a> based in the data-and-details end of everything I do. When I'm not at the bedside, you'll find me racing bikes on <a href="https://www.zwift.com/why-zwift">Zwift</a>, coaching athletes through <a href="https://intervals.icu/athlete/i75079/">Intervals.icu</a>, building mid-century modern furniture, or building things like this site.</p>
-<h3>If I were to have you watch one thing right now...</h3>
-<div class="video-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JkUauxVOh80?si=9SFw6hMU1HleTQ25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p class="tagline">nurse · endurance athlete · photographer · developer</p>
+
+<p>I live in the data-and-details end of everything I do. I'm a <a href="nursing.html">nurse</a>, <a href="athlete.html">endurance athlete</a>, <a href="photography.html">photographer</a>, and <a href="https://github.com/wassupluke/">developer</a>. When I'm not at the bedside, you'll find me racing bikes on <a href="https://www.zwift.com/why-zwift">Zwift</a>, coaching athletes through <a href="https://intervals.icu/athlete/i75079/">Intervals.icu</a>, building mid-century modern furniture, or building things like this site.</p>
+<h2>Things I've built</h2>
+<div class="card-grid">
+  <a class="card" href="https://wassupluke.com/six-second-stemi" target="_blank" rel="noopener noreferrer">
+    <h3>Six Second STEMI</h3>
+    <p>A STEMI-recognition practice app for residents, students, and nurses who want reps reading 12-leads.</p>
+    <span class="card-link">wassupluke.com/six-second-stemi</span>
+  </a>
+  <a class="card" href="https://wassupluke.com/recipe-emailer/" target="_blank" rel="noopener noreferrer">
+    <h3>Recipe Emailer</h3>
+    <p>Weekly meal planning that picks recipes and lands them in your inbox, grocery list included.</p>
+    <span class="card-link">wassupluke.com/recipe-emailer</span>
+  </a>
+  <a class="card" href="https://intervals.icu/athlete/i75079/" target="_blank" rel="noopener noreferrer">
+    <h3>Endurance Coaching</h3>
+    <p>Data-driven training plans and race-performance analysis for cyclists and runners on Intervals.icu.</p>
+    <span class="card-link">intervals.icu</span>
+  </a>
+  <a class="card" href="https://github.com/wassupluke/wassupluke.github.io" target="_blank" rel="noopener noreferrer">
+    <h3>This Site</h3>
+    <p>Markdown in, website out — a tiny Python pipeline that auto-builds every page with GitHub Actions.</p>
+    <span class="card-link">github.com/wassupluke</span>
+  </a>
 </div>
 
-<h3>Future improvements</h3>
-<p>To include <a href="https://github.com/alshedivat/al-folio?tab=readme-ov-file">things like this</a>.</p>
+<h2>Photo highlights</h2>
+<div class="photo-strip">
+  <a href="photography.html"><img src="images/photography/teton-rainbow.jpg" alt="Rainbow over the Teton Range in a storm" loading="lazy"></a>
+  <a href="photography.html"><img src="images/photography/alaska-glacier-valley.jpg" alt="Glacier flowing between Alaska mountain ridges" loading="lazy"></a>
+  <a href="photography.html"><img src="images/photography/frost-covered-trees.jpg" alt="Frost-covered trees in winter fog" loading="lazy"></a>
+  <a href="photography.html"><img src="images/photography/portland-head-light-wide.jpg" alt="Portland Head Light on a rocky coast" loading="lazy"></a>
+  <a href="photography.html"><img src="images/photography/loon-wings-spread.jpg" alt="Loon spreading its wings on a lake" loading="lazy"></a>
+</div>
+
+<p class="strip-caption"><a href="photography.html">See the full gallery →</a></p>
     </div>
     <footer>
       <p>&copy; 2026 Luke Wass | Whatever you do, work at it with all your heart, as working for the Lord, not for men.</p>
