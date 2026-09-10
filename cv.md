@@ -119,7 +119,7 @@ Summer Undergraduate Research Fellowship (SURF Program)
 
 ## Occupation
 
-`June 2026 - Onward` **Cardiac Medical ICU Registered Nurse (staff) NT7AB** *Mayo Clinic, St Marys Campus, Rochester, MN*
+`June 2026 - Present` **Cardiac Medical ICU Registered Nurse (staff) NT7AB** *Mayo Clinic, St Marys Campus, Rochester, MN*
 
 ---
 
