@@ -29,12 +29,12 @@ jobs:
       - name: Convert markdown to HTML
         run: python md-to-html.py $(ls *.md | grep -vx CLAUDE.md)
 
-      # Only what's listed here gets published.
+      # Only what's listed here gets published. HTML is taken only for
+      # pages whose .md still exists, so stale committed HTML isn't served.
       - name: Assemble site
         run: |
           mkdir _site
-          cp *.html _site/
-          rm -f _site/CLAUDE.html
+          for md in $(ls *.md | grep -vx CLAUDE.md); do cp "${md%.md}.html" _site/; done
           cp -r .well-known images static styles _site/
 
       - uses: actions/upload-pages-artifact@v3
