@@ -18,65 +18,65 @@ Care of critically ill patients from a wide range of surgical and medical specia
 
 `January 2026 - June 2026` **Clinical Research and Trials Unit Unit Registered Nurse** *Mayo Clinic, Rochester, MN*
 
-- Supported inpatient and outpatient research protocols across the Rochester campuses, including novel pharmacotherapy, complex assessments, venipuncture, IV starts, retrograde IV starts, 10-lead ECGs, and monitoring for high-intensity trials.
+<!-- - Supported inpatient and outpatient research protocols across the Rochester campuses, including novel pharmacotherapy, complex assessments, venipuncture, IV starts, retrograde IV starts, 10-lead ECGs, and monitoring for high-intensity trials.
 - Administered moderate sedation for specialized procedures such as endoscopies and colonoscopies.
-- Collaborated with multidisciplinary teams to activate new studies, maintain compliance with nursing flowsheets, and ensure seamless patient care in a dynamic research environment.
+- Collaborated with multidisciplinary teams to activate new studies, maintain compliance with nursing flowsheets, and ensure seamless patient care in a dynamic research environment. -->
 
 ---
 
 `March 2022 – June 2026` **Multi-Specialty SICU Registered Nurse (PRN) MB7DE** *Mayo Clinic, St Marys Campus, Rochester, MN*
 
-- Float to all ICUs, including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
+<!-- - Float to all ICUs, including thoracic, vascular, cardiac medical, cardiac surgical, neurosurgical, trauma, and medical units.
 - Assist with managing patient care during conscious and moderate sedation.
-- Mayo Clinic Platform Superuser; trained in leveraging de-identified EMR data for clinical hypothesis generation, AI/ML model development and deployment into Epic workflows, and cross-institutional research collaboration.
+- Mayo Clinic Platform Superuser; trained in leveraging de-identified EMR data for clinical hypothesis generation, AI/ML model development and deployment into Epic workflows, and cross-institutional research collaboration. -->
 
 
 ---
 
 `March 2024 – January 2025` **SICU Registered Nurse (Temporary Permanent Staff)** *Monument Health Rapid City Regional Hospital, SD*  
 
-- Cared for post-surgical patients in a high-acuity cardiovascular surgical ICU.  
+<!-- - Cared for post-surgical patients in a high-acuity cardiovascular surgical ICU.  
 - Delivered comprehensive care for primarily cardiovascular, neurosurgical, and trauma cases.  
-- Precepted new nurses and travelers; ensured safe and timely onboarding.  
+- Precepted new nurses and travelers; ensured safe and timely onboarding.   -->
 
 ---
 
 `Spring 2024` **ICU Nursing Clinical Adjunct Instructor** *St. Ambrose University – Nano Nagle Online School of Nursing*  
 
-- Provided ICU clinical instruction for LPN-to-RN students.  
+<!-- - Provided ICU clinical instruction for LPN-to-RN students.  
 - Provided mentorship in critical thinking, evidence-based practice, and clinical documentation.  
-- Delivered interactive content on ventilator management, sedation protocols, arterial blood gas interpretation, and ICU workflows.
+- Delivered interactive content on ventilator management, sedation protocols, arterial blood gas interpretation, and ICU workflows. -->
 
 ---
 
 `July 2023 – February 2024` **SICU Registered Nurse (Travel)** *Monument Health Rapid City Regional Hospital, Rapid City, SD*
 
-- See above.  
+<!-- - See above.   -->
 
 ---
 
 `March 2023 – July 2023` **MICU Registered Nurse (Travel)** *Good Samaritan Hospital, Puyallup, WA*
 
-- Provided care for critically ill medical ICU patients, including respiratory failure, sepsis, and multi-organ dysfunction.  
+<!-- - Provided care for critically ill medical ICU patients, including respiratory failure, sepsis, and multi-organ dysfunction.   -->
 
 ---
 
 `March 2022 – June 2022` **MICU Registered Nurse (Travel)** *Northern Light Maine Coast Memorial Hospital, Ellsworth, ME*
 
-- Delivered high-quality care in a community hospital ICU setting.  
+<!-- - Delivered high-quality care in a community hospital ICU setting.  
 - Managed central lines, arterial lines, and advanced airway support.  
 - Interpreted ECG strips on all ICU and telemetry patients by hand twice a shift.
 - Served as preceptor and charge nurse.  
 - Adapted quickly to Cerner for travel nurse contract, demonstrating flexibility and strong learning ability in a new EHR system.  
-- Recognized for rapid adaptability and teamwork in variable staffing roles.  
+- Recognized for rapid adaptability and teamwork in variable staffing roles.   -->
 
 ---
 
 `July 2019 – March 2022` **Multi-Specialty SICU Registered Nurse (Staff)** *Mayo Clinic, St Marys Campus, Rochester, MN*
 
-- Delivered critical care to post-op surgical patients in a level-1 trauma center.
+<!-- - Delivered critical care to post-op surgical patients in a level-1 trauma center.
 - Served as preceptor and charge nurse.
-- Proficient in Epic EMR and ICU documentation standards.
+- Proficient in Epic EMR and ICU documentation standards. -->
 
 ---
 
@@ -100,21 +100,21 @@ ACLS, BLS, CCRN, NIHSS, TNCC
 
 ## Institutional & Editorial Roles
 
-`2025` **Editor in Chief** *CCRN Question Bank, StatPearls*
+`2025` - Present **Editor in Chief** *CCRN Question Bank, StatPearls*
 
 > Ensure clinical accuracy, relevance, and alignment of CCRN questions with current exam standards. Review and revise question content for clarity and educational value. Write new high-yield items to address gaps and maintain comprehensive coverage of core critical care topics.
 
-`2025` **Repeatable Room Design workgroup** *Mayo Clinic, Rochester, MN*
+<!-- `2025` **Repeatable Room Design workgroup** *Mayo Clinic, Rochester, MN*
 
 > Bringing bedside nursing insights and cutting-edge innovative ideas for building the future of Mayo Clinic's patient experience, specifically targeting inpatient room design.
 
 `2025` **Quality Committee** *Mayo Clinic, Rochester, MN*
 
-> Improving care plan and nursing shift note completion by implementing fast, accurate, patient-specific, and efficient note templates.
+> Improving care plan and nursing shift note completion by implementing fast, accurate, patient-specific, and efficient note templates. -->
 
 ## Research interests
 
-Alcohol withdrawal, traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, workplace optimization, and leveraging AI and technology in healthcare.
+Traumatic brain injury management, ICU delirium, enhanced clinical education, sport and performance physiology, integrated bedside technologies, workplace optimization, and leveraging AI and technology in healthcare.
 
 ## Research & Technical Experience
 
@@ -151,7 +151,7 @@ Summer Undergraduate Research Fellowship (SURF Program)
 `2010 - Present` **Eagle Scout with double Silver Palms** *Boy Scouts of America*  
 > Earning two Silver Palms represents continued leadership, community service, and merit beyond the Eagle rank. Fewer than 1% of Scouts achieve this distinction.
 
-`2023` **Daisy Award** *Rochester, MN*  
+`2023` **Daisy Award Nominee** *Rochester, MN*  
 > A special honor given to extraordinary nurses for compassionate contributions going above and beyond expectations in science and sensitivity. Nominated for delivering exceptional, compassionate care to patients and demonstrating clinical excellence in patient-centered care.
 
 `2014` **Gamma Beta Phi Honors Society** *University of Arizona*  
