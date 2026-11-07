@@ -12,7 +12,7 @@ Personal portfolio/website hosted on GitHub Pages. Content is authored in Markdo
 - Requires: `pip install markdown`
 - Converts `.md` files to `.html` with template wrapping
 
-**CI:** GitHub Actions workflow (`.github/workflows/convert-markdown.yml`) runs `md-to-html.py` on any pushed `.md` changes and auto-commits the generated HTML. Can also be triggered manually via `workflow_dispatch`.
+**CI/deploy:** GitHub Actions workflow (`.github/workflows/convert-markdown.yml`) runs on every push to `main`: converts all root `.md` files (except `CLAUDE.md`), assembles an allowlisted `_site/` (root `.html`, `.well-known/`, `images/`, `static/`, `styles/`), and deploys it to Pages (Settings → Pages → Source: GitHub Actions). Nothing outside that allowlist is published — add new top-level folders to the "Assemble site" step. Can also be triggered manually via `workflow_dispatch`.
 
 ## Architecture
 
