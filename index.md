@@ -7,7 +7,7 @@ I live in the data-and-details end of everything I do. I'm a [nurse](nursing.htm
 ## Things I've built
 
 <div class="card-grid">
-  <a class="card" href="https://wassupluke.com/six-second-stemi" target="_blank" rel="noopener noreferrer">
+  <a class="card" href="https://wassupluke.com/stemi" target="_blank" rel="noopener noreferrer">
     <h3>Six Second STEMI</h3>
     <p>A STEMI-recognition practice app for residents, students, and nurses who want reps reading 12-leads.</p>
     <span class="card-link">wassupluke.com/six-second-stemi</span>
